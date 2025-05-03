@@ -1,0 +1,2502 @@
+SN,Commodity,Date,Unit,Minimum,Maximum,Average
+0,Tomato Big(Nepali),6/16/13,Kg,35,40,37.5
+1,Tomato Small(Local),6/16/13,Kg,26,32,29
+2,Potato Red,6/16/13,Kg,20,21,20.5
+3,Potato White,6/16/13,Kg,15,16,15.5
+4,Onion Dry (Indian),6/16/13,Kg,28,30,29
+5,Carrot(Local),6/16/13,Kg,30,35,32.5
+6,Cabbage(Local),6/16/13,Kg,6,10,8
+7,Cauli Local,6/16/13,Kg,30,35,32.5
+8,Raddish Red,6/16/13,Kg,35,40,37.5
+9,Raddish White(Local),6/16/13,Kg,25,30,27.5
+10,Brinjal Long,6/16/13,Kg,16,18,17
+11,Brinjal Round,6/16/13,Kg,20,22,21
+12,Cow pea(Long),6/16/13,Kg,20,25,22.5
+13,Green Peas,6/16/13,Kg,55,60,57.5
+14,French Bean(Local),6/16/13,Kg,25,30,27.5
+15,Soyabean Green,6/16/13,Kg,60,70,65
+16,Bitter Gourd,6/16/13,Kg,14,16,15
+17,Bottle Gourd,6/16/13,Kg,15,20,17.5
+18,Pointed Gourd(Local),6/16/13,Kg,30,35,32.5
+19,Snake Gourd,6/16/13,Kg,25,30,27.5
+20,Smooth Gourd,6/16/13,Kg,20,25,22.5
+21,Sponge Gourd,6/16/13,Kg,45,50,47.5
+22,Pumpkin,6/16/13,Kg,18,20,19
+23,Squash(Long),6/16/13,Kg,30,35,32.5
+24,Turnip,6/16/13,Kg,45,50,47.5
+25,Okara,6/16/13,Kg,20,25,22.5
+26,Christophine,6/16/13,Kg,38,40,39
+27,Brd Leaf Mustard,6/16/13,Kg,45,50,47.5
+28,Spinach Leaf,6/16/13,Kg,50,55,52.5
+29,Cress Leaf,6/16/13,Kg,55,60,57.5
+30,Mustard Leaf,6/16/13,Kg,40,45,42.5
+31,Fenugreek Leaf,6/16/13,Kg,55,60,57.5
+32,Onion Green,6/16/13,Kg,40,45,42.5
+33,Mushroom(Kanya),6/16/13,Kg,150,160,155
+34,Asparagus,6/16/13,Kg,100,150,125
+35,Neuro,6/16/13,Kg,,60,55
+36,Brocauli,6/16/13,Kg,70,80,75
+37,Sugarbeet,6/16/13,Kg,35,40,37.5
+38,Drumstick,6/16/13,Kg,35,40,37.5
+39,Red Cabbbage,6/16/13,Kg,70,80,75
+40,Lettuce,6/16/13,Kg,55,60,57.5
+41,Celery,6/16/13,Kg,120,130,125
+42,Parseley,6/16/13,Kg,180,190,185
+43,Fennel Leaf,6/16/13,Kg,70,80,75
+44,Mint,6/16/13,Kg,120,130,125
+45,Turnip A,6/16/13,Kg,40,45,42.5
+46,Tamarind,6/16/13,Kg,65,70,67.5
+47,Bamboo Shoot,6/16/13,Kg,50,60,55
+48,Tofu,6/16/13,Kg,55,60,57.5
+49,Gundruk,6/16/13,Kg,180,190,185
+50,Apple(Jholey),6/16/13,Kg,100,120,110
+51,Banana,6/16/13,Doz,70,80,75
+52,Lime,6/16/13,Kg,200,400,300
+53,Pomegranate,6/16/13,Kg,200,220,210
+54,Mango(Maldah),6/16/13,Kg,50,60,55
+55,Grapes(Green),6/16/13,Kg,250,260,255
+56,Water Melon(Green),6/16/13,Kg,15,18,16.5
+57,Sweet Orange,6/16/13,Kg,90,100,95
+58,Pineapple,6/16/13,1 Pc,60,70,65
+59,Cucumber(Local),6/16/13,Kg,25,30,27.5
+60,Jack Fruit,6/16/13,Kg,20,25,22.5
+61,Papaya(Nepali),6/16/13,Kg,60,70,65
+62,Sugarcane,6/16/13,1 Pc,50,60,55
+63,Ginger,6/16/13,Kg,140,150,145
+64,Chilli Dry,6/16/13,Kg,170,180,175
+65,Chilli Green,6/16/13,Kg,30,40,35
+66,Capsicum,6/16/13,Kg,55,60,57.5
+67,Garlic Green,6/16/13,Kg,45,50,47.5
+68,Coriander Green,6/16/13,Kg,90,110,100
+69,Garlic Dry Chinese,6/16/13,Kg,100,110,105
+70,Garlic Dry Nepali,6/16/13,Kg,50,60,55
+71,Clive Dry,6/16/13,Kg,70,80,75
+72,Clive Green,6/16/13,Kg,70,80,75
+73,Fish Fresh,6/16/13,Kg,210,220,215
+74,Tomato Big(Nepali),6/17/13,Kg,25,30,27.5
+75,Tomato Small(Local),6/17/13,Kg,20,25,22.5
+76,Potato Red,6/17/13,Kg,20,21,20.5
+77,Potato White,6/17/13,Kg,15,16,15.5
+78,Onion Dry (Indian),6/17/13,Kg,29,30,29.5
+79,Carrot(Local),6/17/13,Kg,35,40,37.5
+80,Cabbage(Local),6/17/13,Kg,6,10,8
+81,Cauli Local,6/17/13,Kg,25,30,27.5
+82,Raddish Red,6/17/13,Kg,35,40,37.5
+83,Raddish White(Local),6/17/13,Kg,30,35,32.5
+84,Brinjal Long,6/17/13,Kg,18,20,19
+85,Brinjal Round,6/17/13,Kg,25,30,27.5
+86,Cow pea(Long),6/17/13,Kg,20,25,22.5
+87,Green Peas,6/17/13,Kg,55,60,57.5
+88,French Bean(Local),6/17/13,Kg,30,35,32.5
+89,Soyabean Green,6/17/13,Kg,55,60,57.5
+90,Bitter Gourd,6/17/13,Kg,16,20,18
+91,Bottle Gourd,6/17/13,Kg,18,20,19
+92,Pointed Gourd(Local),6/17/13,Kg,30,35,32.5
+93,Snake Gourd,6/17/13,Kg,30,35,32.5
+94,Smooth Gourd,6/17/13,Kg,15,20,17.5
+95,Sponge Gourd,6/17/13,Kg,45,50,47.5
+96,Pumpkin,6/17/13,Kg,18,20,19
+97,Squash(Long),6/17/13,Kg,20,25,22.5
+98,Okara,6/17/13,Kg,18,22,20
+99,Christophine,6/17/13,Kg,35,40,37.5
+100,Brd Leaf Mustard,6/17/13,Kg,40,45,42.5
+101,Spinach Leaf,6/17/13,Kg,45,50,47.5
+102,Cress Leaf,6/17/13,Kg,40,45,42.5
+103,Mustard Leaf,6/17/13,Kg,35,40,37.5
+104,Fenugreek Leaf,6/17/13,Kg,40,45,42.5
+105,Onion Green,6/17/13,Kg,40,45,42.5
+106,Mushroom(Kanya),6/17/13,Kg,180,200,190
+107,Asparagus,6/17/13,Kg,100,150,125
+108,Neuro,6/17/13,Kg,50,60,55
+109,Brocauli,6/17/13,Kg,70,80,75
+110,Sugarbeet,6/17/13,Kg,35,40,37.5
+111,Drumstick,6/17/13,Kg,45,50,47.5
+112,Red Cabbbage,6/17/13,Kg,60,70,65
+113,Lettuce,6/17/13,Kg,45,50,47.5
+114,Celery,6/17/13,Kg,120,130,125
+115,Parseley,6/17/13,Kg,180,190,185
+116,Fennel Leaf,6/17/13,Kg,40,45,42.5
+117,Mint,6/17/13,Kg,120,130,125
+118,Turnip A,6/17/13,Kg,45,50,47.5
+119,Tamarind,6/17/13,Kg,65,70,67.5
+120,Bamboo Shoot,6/17/13,Kg,50,60,55
+121,Tofu,6/17/13,Kg,55,60,57.5
+122,Gundruk,6/17/13,Kg,190,200,195
+123,Apple(Jholey),6/17/13,Kg,110,130,120
+124,Banana,6/17/13,Doz,70,80,75
+125,Lime,6/17/13,Kg,200,400,300
+126,Pomegranate,6/17/13,Kg,200,220,210
+127,Mango(Maldah),6/17/13,Kg,50,60,55
+128,Grapes(Green),6/17/13,Kg,250,260,255
+129,Water Melon(Green),6/17/13,Kg,14,16,15
+130,Sweet Orange,6/17/13,Kg,90,100,95
+131,Pineapple,6/17/13,1 Pc,60,70,65
+132,Cucumber(Local),6/17/13,Kg,25,30,27.5
+133,Jack Fruit,6/17/13,Kg,20,25,22.5
+134,Papaya(Nepali),6/17/13,Kg,60,70,65
+135,Sugarcane,6/17/13,1 Pc,60,70,65
+136,Ginger,6/17/13,Kg,140,150,145
+137,Chilli Dry,6/17/13,Kg,170,180,175
+138,Chilli Green,6/17/13,Kg,30,40,35
+139,Capsicum,6/17/13,Kg,55,60,57.5
+140,Garlic Green,6/17/13,Kg,45,50,47.5
+141,Coriander Green,6/17/13,Kg,90,100,95
+142,Garlic Dry Chinese,6/17/13,Kg,100,110,105
+143,Garlic Dry Nepali,6/17/13,Kg,50,60,55
+144,Clive Dry,6/17/13,Kg,70,80,75
+145,Clive Green,6/17/13,Kg,50,60,55
+146,Fish Fresh,6/17/13,Kg,210,220,215
+147,Tomato Big(Nepali),6/18/13,Kg,25,30,27.5
+148,Tomato Small(Local),6/18/13,Kg,22,26,24
+149,Potato Red,6/18/13,Kg,19,20,19.5
+150,Potato White,6/18/13,Kg,15,16,15.5
+151,Onion Dry (Indian),6/18/13,Kg,33,35,34
+152,Carrot(Local),6/18/13,Kg,35,40,37.5
+153,Cabbage(Local),6/18/13,Kg,8,10,9
+154,Cauli Local,6/18/13,Kg,25,30,27.5
+155,Raddish Red,6/18/13,Kg,35,40,37.5
+156,Raddish White(Local),6/18/13,Kg,30,35,32.5
+157,Brinjal Long,6/18/13,Kg,20,25,22.5
+158,Brinjal Round,6/18/13,Kg,25,30,27.5
+159,Cow pea(Long),6/18/13,Kg,25,30,27.5
+160,Green Peas,6/18/13,Kg,55,60,57.5
+161,French Bean(Local),6/18/13,Kg,30,35,32.5
+162,Soyabean Green,6/18/13,Kg,55,60,57.5
+163,Bitter Gourd,6/18/13,Kg,16,22,19
+164,Bottle Gourd,6/18/13,Kg,22,24,23
+165,Pointed Gourd(Local),6/18/13,Kg,30,35,32.5
+166,Snake Gourd,6/18/13,Kg,30,35,32.5
+167,Smooth Gourd,6/18/13,Kg,20,25,22.5
+168,Pumpkin,6/18/13,Kg,18,20,19
+169,Squash(Long),6/18/13,Kg,18,20,19
+170,Turnip,6/18/13,Kg,45,50,47.5
+171,Okara,6/18/13,Kg,20,25,22.5
+172,Christophine,6/18/13,Kg,40,45,42.5
+173,Brd Leaf Mustard,6/18/13,Kg,40,45,42.5
+174,Spinach Leaf,6/18/13,Kg,45,50,47.5
+175,Cress Leaf,6/18/13,Kg,45,50,47.5
+176,Mustard Leaf,6/18/13,Kg,35,40,37.5
+177,Fenugreek Leaf,6/18/13,Kg,40,45,42.5
+178,Onion Green,6/18/13,Kg,35,40,37.5
+179,Mushroom(Kanya),6/18/13,Kg,180,200,190
+180,Asparagus,6/18/13,Kg,100,120,110
+181,Neuro,6/18/13,Kg,50,60,55
+182,Brocauli,6/18/13,Kg,70,80,75
+183,Sugarbeet,6/18/13,Kg,35,40,37.5
+184,Drumstick,6/18/13,Kg,35,40,37.5
+185,Red Cabbbage,6/18/13,Kg,50,60,55
+186,Lettuce,6/18/13,Kg,35,40,37.5
+187,Celery,6/18/13,Kg,120,130,125
+188,Parseley,6/18/13,Kg,180,200,190
+189,Fennel Leaf,6/18/13,Kg,40,45,42.5
+190,Mint,6/18/13,Kg,120,130,125
+191,Turnip A,6/18/13,Kg,45,50,47.5
+192,Tamarind,6/18/13,Kg,65,70,67.5
+193,Bamboo Shoot,6/18/13,Kg,50,60,55
+194,Tofu,6/18/13,Kg,55,60,57.5
+195,Gundruk,6/18/13,Kg,180,190,185
+196,Apple(Jholey),6/18/13,Kg,110,120,115
+197,Banana,6/18/13,Doz,70,80,75
+198,Lime,6/18/13,Kg,200,400,300
+199,Pomegranate,6/18/13,Kg,200,220,210
+200,Mango(Maldah),6/18/13,Kg,50,60,55
+201,Grapes(Green),6/18/13,Kg,250,260,255
+202,Water Melon(Green),6/18/13,Kg,12,15,13.5
+203,Sweet Orange,6/18/13,Kg,90,,95
+204,Pineapple,6/18/13,1 Pc,60,70,65
+205,Cucumber(Local),6/18/13,Kg,25,30,27.5
+206,Jack Fruit,6/18/13,Kg,20,25,22.5
+207,Papaya(Nepali),6/18/13,Kg,55,60,57.5
+208,Sugarcane,6/18/13,1 Pc,50,60,55
+209,Ginger,6/18/13,Kg,140,150,145
+210,Chilli Dry,6/18/13,Kg,170,180,175
+211,Chilli Green,6/18/13,Kg,35,40,37.5
+212,Capsicum,6/18/13,Kg,55,60,57.5
+213,Garlic Green,6/18/13,Kg,45,50,47.5
+214,Coriander Green,6/18/13,Kg,90,100,95
+215,Garlic Dry Chinese,6/18/13,Kg,100,110,105
+216,Garlic Dry Nepali,6/18/13,Kg,50,60,55
+217,Clive Dry,6/18/13,Kg,70,80,75
+218,Clive Green,6/18/13,Kg,50,60,55
+219,Fish Fresh,6/18/13,Kg,210,220,215
+220,Tomato Big(Nepali),6/19/13,Kg,25,30,27.5
+221,Tomato Small(Local),6/19/13,Kg,24,28,26
+222,Potato Red,6/19/13,Kg,20,21,20.5
+223,Potato White,6/19/13,Kg,15,16,15.5
+224,Onion Dry (Indian),6/19/13,Kg,34,35,34.5
+225,Carrot(Local),6/19/13,Kg,38,42,40
+226,Cabbage(Local),6/19/13,Kg,10,15,12.5
+227,Cauli Local,6/19/13,Kg,25,30,27.5
+228,Raddish Red,6/19/13,Kg,35,40,37.5
+229,Raddish White(Local),6/19/13,Kg,30,35,32.5
+230,Brinjal Long,6/19/13,Kg,22,26,24
+231,Brinjal Round,6/19/13,Kg,25,30,27.5
+232,Cow pea(Long),6/19/13,Kg,25,30,27.5
+233,Green Peas,6/19/13,Kg,55,60,57.5
+234,French Bean(Local),6/19/13,Kg,30,35,32.5
+235,Soyabean Green,6/19/13,Kg,55,60,57.5
+236,Bitter Gourd,6/19/13,Kg,20,25,22.5
+237,Bottle Gourd,6/19/13,Kg,18,20,19
+238,Pointed Gourd(Local),6/19/13,Kg,30,35,32.5
+239,Snake Gourd,6/19/13,Kg,25,30,27.5
+240,Smooth Gourd,6/19/13,Kg,20,25,22.5
+241,Sponge Gourd,6/19/13,Kg,40,45,42.5
+242,Pumpkin,6/19/13,Kg,18,20,19
+243,Squash(Long),6/19/13,Kg,15,20,17.5
+244,Turnip,6/19/13,Kg,45,50,47.5
+245,Okara,6/19/13,Kg,35,40,37.5
+246,Christophine,6/19/13,Kg,35,40,37.5
+247,Brd Leaf Mustard,6/19/13,Kg,40,45,42.5
+248,Spinach Leaf,6/19/13,Kg,40,45,42.5
+249,Cress Leaf,6/19/13,Kg,40,45,42.5
+250,Mustard Leaf,6/19/13,Kg,35,40,37.5
+251,Fenugreek Leaf,6/19/13,Kg,40,45,42.5
+252,Onion Green,6/19/13,Kg,40,45,42.5
+253,Mushroom(Kanya),6/19/13,Kg,180,200,190
+254,Asparagus,6/19/13,Kg,100,125,112.5
+255,Neuro,6/19/13,Kg,40,50,45
+256,Brocauli,6/19/13,Kg,70,80,75
+257,Sugarbeet,6/19/13,Kg,45,50,47.5
+258,Red Cabbbage,6/19/13,Kg,70,80,75
+259,Lettuce,6/19/13,Kg,55,60,57.5
+260,Celery,6/19/13,Kg,120,130,125
+261,Parseley,6/19/13,Kg,180,190,185
+262,Fennel Leaf,6/19/13,Kg,45,50,47.5
+263,Mint,6/19/13,Kg,120,130,125
+264,Turnip A,6/19/13,Kg,45,50,47.5
+265,Tamarind,6/19/13,Kg,65,70,67.5
+266,Bamboo Shoot,6/19/13,Kg,50,60,55
+267,Tofu,6/19/13,Kg,55,60,57.5
+268,Gundruk,6/19/13,Kg,180,190,185
+269,Apple(Jholey),6/19/13,Kg,110,120,115
+270,Banana,6/19/13,Doz,70,80,75
+271,Lime,6/19/13,Kg,200,400,300
+272,Pomegranate,6/19/13,Kg,200,220,210
+273,Mango(Maldah),6/19/13,Kg,50,60,55
+274,Grapes(Green),6/19/13,Kg,250,260,255
+275,Water Melon(Green),6/19/13,Kg,14,16,15
+276,Sweet Orange,6/19/13,Kg,90,100,95
+277,Pineapple,6/19/13,1 Pc,70,80,75
+278,Cucumber(Local),6/19/13,Kg,30,35,32.5
+279,Jack Fruit,6/19/13,Kg,20,25,22.5
+280,Papaya(Nepali),6/19/13,Kg,60,65,62.5
+281,Sugarcane,6/19/13,1 Pc,50,60,55
+282,Ginger,6/19/13,Kg,140,150,145
+283,Chilli Dry,6/19/13,Kg,170,180,175
+284,Chilli Green,6/19/13,Kg,35,40,37.5
+285,Capsicum,6/19/13,Kg,55,60,57.5
+286,Garlic Green,6/19/13,Kg,45,50,47.5
+287,Coriander Green,6/19/13,Kg,90,100,95
+288,Garlic Dry Chinese,6/19/13,Kg,100,110,105
+289,Garlic Dry Nepali,6/19/13,Kg,50,60,55
+290,Clive Dry,6/19/13,Kg,70,80,75
+291,Clive Green,6/19/13,Kg,50,60,55
+292,Fish Fresh,6/19/13,Kg,210,220,215
+293,Tomato Big(Nepali),6/20/13,Kg,25,30,27.5
+294,Tomato Small(Local),6/20/13,Kg,22,26,24
+295,Potato Red,6/20/13,Kg,20,21,20.5
+296,Potato White,6/20/13,Kg,15,16,15.5
+297,Onion Dry (Indian),6/20/13,Kg,35,36,35.5
+298,Carrot(Local),6/20/13,Kg,40,42,41
+299,Cabbage(Local),6/20/13,Kg,10,15,12.5
+300,Cauli Local,6/20/13,Kg,20,25,22.5
+301,Raddish Red,6/20/13,Kg,35,40,37.5
+302,Raddish White(Local),6/20/13,Kg,28,32,30
+303,Brinjal Long,6/20/13,Kg,20,25,22.5
+304,Brinjal Round,6/20/13,Kg,25,30,27.5
+305,Cow pea(Long),6/20/13,Kg,30,35,32.5
+306,Green Peas,6/20/13,Kg,55,60,57.5
+307,French Bean(Local),6/20/13,Kg,30,40,35
+308,Soyabean Green,6/20/13,Kg,50,55,52.5
+309,Bitter Gourd,6/20/13,Kg,20,25,22.5
+310,Bottle Gourd,6/20/13,Kg,20,25,22.5
+311,Pointed Gourd(Local),6/20/13,Kg,30,35,32.5
+312,Snake Gourd,6/20/13,Kg,30,35,32.5
+313,Smooth Gourd,6/20/13,Kg,20,25,22.5
+314,Sponge Gourd,6/20/13,Kg,45,50,47.5
+315,Pumpkin,6/20/13,Kg,18,20,19
+316,Squash(Long),6/20/13,Kg,15,20,17.5
+317,Turnip,6/20/13,Kg,40,45,42.5
+318,Okara,6/20/13,Kg,35,40,37.5
+319,Christophine,6/20/13,Kg,35,40,37.5
+320,Brd Leaf Mustard,6/20/13,Kg,40,45,42.5
+321,Spinach Leaf,6/20/13,Kg,45,50,47.5
+322,Cress Leaf,6/20/13,Kg,45,50,47.5
+323,Mustard Leaf,6/20/13,Kg,35,40,37.5
+324,Fenugreek Leaf,6/20/13,Kg,45,50,47.5
+325,Onion Green,6/20/13,Kg,35,40,37.5
+326,Mushroom(Kanya),6/20/13,Kg,200,220,210
+327,Asparagus,6/20/13,Kg,100,120,110
+328,Neuro,6/20/13,Kg,50,60,55
+329,Brocauli,6/20/13,Kg,70,80,75
+330,Sugarbeet,6/20/13,Kg,35,40,37.5
+331,Drumstick,6/20/13,Kg,45,50,47.5
+332,Red Cabbbage,6/20/13,Kg,70,80,75
+333,Lettuce,6/20/13,Kg,45,50,47.5
+334,Celery,6/20/13,Kg,120,130,125
+335,Parseley,6/20/13,Kg,170,180,175
+336,Fennel Leaf,6/20/13,Kg,45,50,47.5
+337,Mint,6/20/13,Kg,120,130,125
+338,Turnip A,6/20/13,Kg,50,60,55
+339,Tamarind,6/20/13,Kg,65,70,67.5
+340,Bamboo Shoot,6/20/13,Kg,50,60,55
+341,Tofu,6/20/13,Kg,55,60,57.5
+342,Gundruk,6/20/13,Kg,180,190,185
+343,Apple(Jholey),6/20/13,Kg,110,120,115
+344,Banana,6/20/13,Doz,70,80,75
+345,Lime,6/20/13,Kg,200,400,300
+346,Pomegranate,6/20/13,Kg,190,200,195
+347,Mango(Maldah),6/20/13,Kg,50,60,55
+348,Grapes(Green),6/20/13,Kg,250,260,255
+349,Water Melon(Green),6/20/13,Kg,14,16,15
+350,Sweet Orange,6/20/13,Kg,90,100,95
+351,Pineapple,6/20/13,1 Pc,60,70,65
+352,Cucumber(Local),6/20/13,Kg,30,35,32.5
+353,Jack Fruit,6/20/13,Kg,20,25,22.5
+354,Papaya(Nepali),6/20/13,Kg,55,55,55
+355,Sugarcane,6/20/13,1 Pc,50,60,55
+356,Ginger,6/20/13,Kg,140,150,145
+357,Chilli Dry,6/20/13,Kg,170,180,175
+358,Chilli Green,6/20/13,Kg,40,50,45
+359,Capsicum,6/20/13,Kg,50,55,52.5
+360,Garlic Green,6/20/13,Kg,40,45,42.5
+361,Coriander Green,6/20/13,Kg,50,60,55
+362,Garlic Dry Chinese,6/20/13,Kg,100,110,105
+363,Garlic Dry Nepali,6/20/13,Kg,50,60,55
+364,Clive Dry,6/20/13,Kg,70,80,75
+365,Clive Green,6/20/13,Kg,70,80,75
+366,Fish Fresh,6/20/13,Kg,210,220,215
+367,Tomato Big(Nepali),6/21/13,Kg,25,30,27.5
+368,Tomato Small(Local),6/21/13,Kg,15,20,17.5
+369,Potato Red,6/21/13,Kg,21,22,21.5
+370,Potato White,6/21/13,Kg,16,17,16.5
+371,Onion Dry (Indian),6/21/13,Kg,34,35,34.5
+372,Carrot(Local),6/21/13,Kg,40,45,42.5
+373,Cabbage(Local),6/21/13,Kg,8,12,10
+374,Cauli Local,6/21/13,Kg,20,24,22
+375,Raddish Red,6/21/13,Kg,35,40,37.5
+376,Raddish White(Local),6/21/13,Kg,25,30,27.5
+377,Brinjal Long,6/21/13,Kg,18,22,20
+378,Brinjal Round,6/21/13,Kg,25,30,27.5
+379,Cow pea(Long),6/21/13,Kg,30,35,32.5
+380,Green Peas,6/21/13,Kg,55,60,57.5
+381,French Bean(Local),6/21/13,Kg,35,40,37.5
+382,Soyabean Green,6/21/13,Kg,55,60,57.5
+383,Bitter Gourd,6/21/13,Kg,18,22,20
+384,Bottle Gourd,6/21/13,Kg,20,22,21
+385,Pointed Gourd(Local),6/21/13,Kg,30,35,32.5
+386,Snake Gourd,6/21/13,Kg,35,40,37.5
+387,Smooth Gourd,6/21/13,Kg,18,22,20
+388,Sponge Gourd,6/21/13,Kg,45,50,47.5
+389,Pumpkin,6/21/13,Kg,18,20,19
+390,Squash(Long),6/21/13,Kg,18,20,19
+391,Turnip,6/21/13,Kg,45,50,47.5
+392,Okara,6/21/13,Kg,45,55,50
+393,Christophine,6/21/13,Kg,35,40,37.5
+394,Brd Leaf Mustard,6/21/13,Kg,45,50,47.5
+395,Spinach Leaf,6/21/13,Kg,45,50,47.5
+396,Cress Leaf,6/21/13,Kg,45,50,47.5
+397,Mustard Leaf,6/21/13,Kg,35,40,37.5
+398,Fenugreek Leaf,6/21/13,Kg,45,50,47.5
+399,Onion Green,6/21/13,Kg,35,40,37.5
+400,Mushroom(Kanya),6/21/13,Kg,180,200,190
+401,Asparagus,6/21/13,Kg,100,120,110
+402,Neuro,6/21/13,Kg,50,60,55
+403,Brocauli,6/21/13,Kg,70,80,75
+404,Sugarbeet,6/21/13,Kg,35,40,37.5
+405,Drumstick,6/21/13,Kg,45,50,47.5
+406,Red Cabbbage,6/21/13,Kg,70,80,75
+407,Lettuce,6/21/13,Kg,40,45,42.5
+408,Celery,6/21/13,Kg,120,130,125
+409,Parseley,6/21/13,Kg,180,190,185
+410,Fennel Leaf,6/21/13,Kg,45,50,47.5
+411,Mint,6/21/13,Kg,120,130,125
+412,Turnip A,6/21/13,Kg,45,50,47.5
+413,Tamarind,6/21/13,Kg,65,70,67.5
+414,Bamboo Shoot,6/21/13,Kg,50,60,55
+415,Tofu,6/21/13,Kg,55,60,57.5
+416,Gundruk,6/21/13,Kg,180,190,185
+417,Apple(Jholey),6/21/13,Kg,110,120,115
+418,Banana,6/21/13,Doz,70,80,75
+419,Lime,6/21/13,Kg,200,400,300
+420,Pomegranate,6/21/13,Kg,200,210,205
+421,Mango(Maldah),6/21/13,Kg,40,50,45
+422,Grapes(Green),6/21/13,Kg,250,260,255
+423,Water Melon(Green),6/21/13,Kg,16,18,17
+424,Sweet Orange,6/21/13,Kg,90,100,95
+425,Pineapple,6/21/13,1 Pc,60,70,65
+426,Cucumber(Local),6/21/13,Kg,25,30,27.5
+427,Jack Fruit,6/21/13,Kg,15,20,17.5
+428,Papaya(Nepali),6/21/13,Kg,55,60,57.5
+429,Sugarcane,6/21/13,1 Pc,50,60,55
+430,Ginger,6/21/13,Kg,130,140,135
+431,Chilli Dry,6/21/13,Kg,170,180,175
+432,Chilli Green,6/21/13,Kg,50,60,55
+433,Capsicum,6/21/13,Kg,50,55,52.5
+434,Garlic Green,6/21/13,Kg,45,50,47.5
+435,Coriander Green,6/21/13,Kg,50,70,60
+436,Garlic Dry Chinese,6/21/13,Kg,100,110,105
+437,Garlic Dry Nepali,6/21/13,Kg,50,60,55
+438,Clive Dry,6/21/13,Kg,70,80,75
+439,Clive Green,6/21/13,Kg,50,60,55
+440,Fish Fresh,6/21/13,Kg,210,220,215
+441,Tomato Big(Nepali),6/25/13,Kg,30,35,32.5
+442,Tomato Small(Local),6/25/13,Kg,25,30,27.5
+443,Potato Red,6/25/13,Kg,23,25,24
+444,Potato White,6/25/13,Kg,17,18,17.5
+445,Onion Dry (Indian),6/25/13,Kg,33,35,34
+446,Carrot(Local),6/25/13,Kg,40,45,42.5
+447,Cabbage(Local),6/25/13,Kg,10,15,12.5
+448,Cauli Local,6/25/13,Kg,20,25,22.5
+449,Raddish Red,6/25/13,Kg,40,45,42.5
+450,Raddish White(Local),6/25/13,Kg,20,25,22.5
+451,Brinjal Long,6/25/13,Kg,35,40,37.5
+452,Brinjal Round,6/25/13,Kg,30,35,32.5
+453,Cow pea(Long),6/25/13,Kg,40,45,42.5
+454,Green Peas,6/25/13,Kg,55,60,57.5
+455,French Bean(Local),6/25/13,Kg,35,40,37.5
+456,Soyabean Green,6/25/13,Kg,50,55,52.5
+457,Bitter Gourd,6/25/13,Kg,25,30,27.5
+458,Bottle Gourd,6/25/13,Kg,30,35,32.5
+459,Pointed Gourd(Local),6/25/13,Kg,35,40,37.5
+460,Snake Gourd,6/25/13,Kg,30,35,32.5
+461,Smooth Gourd,6/25/13,Kg,25,30,27.5
+462,Sponge Gourd,6/25/13,Kg,45,50,47.5
+463,Pumpkin,6/25/13,Kg,18,20,19
+464,Squash(Long),6/25/13,Kg,15,20,17.5
+465,Okara,6/25/13,Kg,40,45,42.5
+466,Arum,6/25/13,Kg,28,32,30
+467,Christophine,6/25/13,Kg,35,40,37.5
+468,Brd Leaf Mustard,6/25/13,Kg,40,45,42.5
+469,Spinach Leaf,6/25/13,Kg,45,50,47.5
+470,Cress Leaf,6/25/13,Kg,45,50,47.5
+471,Mustard Leaf,6/25/13,Kg,35,40,37.5
+472,Fenugreek Leaf,6/25/13,Kg,40,45,42.5
+473,Onion Green,6/25/13,Kg,40,45,42.5
+474,Mushroom(Kanya),6/25/13,Kg,150,170,160
+475,Asparagus,6/25/13,Kg,100,125,112.5
+476,Neuro,6/25/13,Kg,50,60,55
+477,Brocauli,6/25/13,Kg,70,80,75
+478,Sugarbeet,6/25/13,Kg,35,40,37.5
+479,Red Cabbbage,6/25/13,Kg,70,80,75
+480,Lettuce,6/25/13,Kg,45,50,47.5
+481,Celery,6/25/13,Kg,120,130,125
+482,Parseley,6/25/13,Kg,180,190,185
+483,Fennel Leaf,6/25/13,Kg,45,50,47.5
+484,Mint,6/25/13,Kg,120,130,125
+485,Turnip A,6/25/13,Kg,45,50,47.5
+486,Tamarind,6/25/13,Kg,65,70,67.5
+487,Bamboo Shoot,6/25/13,Kg,50,60,55
+488,Tofu,6/25/13,Kg,55,60,57.5
+489,Gundruk,6/25/13,Kg,180,190,185
+490,Apple(Jholey),6/25/13,Kg,110,130,120
+491,Banana,6/25/13,Doz,60,70,65
+492,Lime,6/25/13,Kg,200,400,300
+493,Pomegranate,6/25/13,Kg,230,250,240
+494,Mango(Maldah),6/25/13,Kg,50,60,55
+495,Grapes(Green),6/25/13,Kg,250,260,255
+496,Water Melon(Green),6/25/13,Kg,17,18,17.5
+497,Sweet Orange,6/25/13,Kg,90,100,95
+498,Pineapple,6/25/13,1 Pc,60,70,65
+499,Cucumber(Local),6/25/13,Kg,25,30,27.5
+500,Jack Fruit,6/25/13,Kg,20,25,22.5
+501,Papaya(Nepali),6/25/13,Kg,55,60,57.5
+502,Sugarcane,6/25/13,1 Pc,50,60,55
+503,Ginger,6/25/13,Kg,140,150,145
+504,Chilli Dry,6/25/13,Kg,170,180,175
+505,Chilli Green,6/25/13,Kg,30,40,35
+506,Capsicum,6/25/13,Kg,70,80,75
+507,Garlic Green,6/25/13,Kg,45,50,47.5
+508,Coriander Green,6/25/13,Kg,45,50,47.5
+509,Garlic Dry Chinese,6/25/13,Kg,100,110,105
+510,Garlic Dry Nepali,6/25/13,Kg,50,60,55
+511,Clive Dry,6/25/13,Kg,70,80,75
+512,Clive Green,6/25/13,Kg,50,60,55
+513,Fish Fresh,6/25/13,Kg,210,220,215
+514,Tomato Big(Nepali),6/26/13,Kg,30,35,32.5
+515,Tomato Small(Local),6/26/13,Kg,20,25,22.5
+516,Potato Red,6/26/13,Kg,22,23,22.5
+517,Potato White,6/26/13,Kg,17,18,17.5
+518,Onion Dry (Indian),6/26/13,Kg,33,35,34
+519,Carrot(Local),6/26/13,Kg,35,40,37.5
+520,Cabbage(Local),6/26/13,Kg,10,15,12.5
+521,Cauli Local,6/26/13,Kg,18,22,20
+522,Raddish Red,6/26/13,Kg,35,40,37.5
+523,Raddish White(Local),6/26/13,Kg,20,25,22.5
+524,Brinjal Long,6/26/13,Kg,30,35,32.5
+525,Cow pea(Long),6/26/13,Kg,30,35,32.5
+526,Green Peas,6/26/13,Kg,55,60,57.5
+527,French Bean(Local),6/26/13,Kg,35,40,37.5
+528,Soyabean Green,6/26/13,Kg,45,50,47.5
+529,Bitter Gourd,6/26/13,Kg,20,30,25
+530,Bottle Gourd,6/26/13,Kg,30,32,31
+531,Pointed Gourd(Local),6/26/13,Kg,35,40,37.5
+532,Snake Gourd,6/26/13,Kg,30,35,32.5
+533,Smooth Gourd,6/26/13,Kg,20,25,22.5
+534,Sponge Gourd,6/26/13,Kg,45,50,47.5
+535,Pumpkin,6/26/13,Kg,16,20,18
+536,Squash(Long),6/26/13,Kg,20,25,22.5
+537,Turnip,6/26/13,Kg,45,50,47.5
+538,Okara,6/26/13,Kg,35,40,37.5
+539,Arum,6/26/13,Kg,30,35,32.5
+540,Christophine,6/26/13,Kg,35,40,37.5
+541,Brd Leaf Mustard,6/26/13,Kg,40,45,42.5
+542,Spinach Leaf,6/26/13,Kg,45,50,47.5
+543,Cress Leaf,6/26/13,Kg,45,50,47.5
+544,Mustard Leaf,6/26/13,Kg,35,40,37.5
+545,Fenugreek Leaf,6/26/13,Kg,45,50,47.5
+546,Onion Green,6/26/13,Kg,35,40,37.5
+547,Mushroom(Kanya),6/26/13,Kg,150,160,155
+548,Asparagus,6/26/13,Kg,100,130,115
+549,Neuro,6/26/13,Kg,40,50,45
+550,Brocauli,6/26/13,Kg,70,80,75
+551,Sugarbeet,6/26/13,Kg,35,40,37.5
+552,Red Cabbbage,6/26/13,Kg,70,80,75
+553,Lettuce,6/26/13,Kg,40,50,45
+554,Celery,6/26/13,Kg,120,130,125
+555,Parseley,6/26/13,Kg,170,180,175
+556,Fennel Leaf,6/26/13,Kg,45,50,47.5
+557,Mint,6/26/13,Kg,120,130,125
+558,Turnip A,6/26/13,Kg,45,50,47.5
+559,Tamarind,6/26/13,Kg,65,70,67.5
+560,Bamboo Shoot,6/26/13,Kg,50,60,55
+561,Tofu,6/26/13,Kg,55,60,57.5
+562,Gundruk,6/26/13,Kg,180,190,185
+563,Apple(Jholey),6/26/13,Kg,110,130,120
+564,Banana,6/26/13,Doz,60,70,65
+565,Lime,6/26/13,Kg,200,400,300
+566,Pomegranate,6/26/13,Kg,220,240,230
+567,Mango(Maldah),6/26/13,Kg,50,60,55
+568,Grapes(Green),6/26/13,Kg,250,260,255
+569,Water Melon(Green),6/26/13,Kg,15,18,16.5
+570,Sweet Orange,6/26/13,Kg,90,100,95
+571,Pineapple,6/26/13,1 Pc,60,70,65
+572,Cucumber(Local),6/26/13,Kg,30,35,32.5
+573,Jack Fruit,6/26/13,Kg,20,25,22.5
+574,Papaya(Nepali),6/26/13,Kg,50,60,55
+575,Sugarcane,6/26/13,1 Pc,50,60,55
+576,Ginger,6/26/13,Kg,130,140,135
+577,Chilli Dry,6/26/13,Kg,170,180,175
+578,Chilli Green,6/26/13,Kg,25,30,27.5
+579,Capsicum,6/26/13,Kg,90,100,95
+580,Garlic Green,6/26/13,Kg,45,50,47.5
+581,Coriander Green,6/26/13,Kg,40,50,45
+582,Garlic Dry Chinese,6/26/13,Kg,95,100,97.5
+583,Garlic Dry Nepali,6/26/13,Kg,50,60,55
+584,Clive Dry,6/26/13,Kg,70,80,75
+585,Clive Green,6/26/13,Kg,50,60,55
+586,Fish Fresh,6/26/13,Kg,210,220,215
+587,Tomato Big(Nepali),6/27/13,Kg,30,35,32.5
+588,Tomato Small(Local),6/27/13,Kg,18,24,21
+589,Potato Red,6/27/13,Kg,22,24,23
+590,Potato White,6/27/13,Kg,19,20,19.5
+591,Onion Dry (Indian),6/27/13,Kg,35,37,36
+592,Carrot(Local),6/27/13,Kg,40,42,41
+593,Cabbage(Local),6/27/13,Kg,10,14,12
+594,Cauli Local,6/27/13,Kg,25,30,27.5
+595,Raddish Red,6/27/13,Kg,35,40,37.5
+596,Raddish White(Local),6/27/13,Kg,20,25,22.5
+597,Brinjal Long,6/27/13,Kg,35,40,37.5
+598,Brinjal Round,6/27/13,Kg,35,40,37.5
+599,Cow pea(Long),6/27/13,Kg,35,40,37.5
+600,French Bean(Local),6/27/13,Kg,38,42,40
+601,Soyabean Green,6/27/13,Kg,45,50,47.5
+602,Bitter Gourd,6/27/13,Kg,25,30,27.5
+603,Bottle Gourd,6/27/13,Kg,28,32,30
+604,Pointed Gourd(Local),6/27/13,Kg,35,40,37.5
+605,Snake Gourd,6/27/13,Kg,35,40,37.5
+606,Smooth Gourd,6/27/13,Kg,20,25,22.5
+607,Sponge Gourd,6/27/13,Kg,4,45,24.5
+608,Pumpkin,6/27/13,Kg,16,18,17
+609,Squash(Long),6/27/13,Kg,20,24,22
+610,Turnip,6/27/13,Kg,25,30,27.5
+611,Okara,6/27/13,Kg,35,40,37.5
+612,Arum,6/27/13,Kg,35,40,37.5
+613,Christophine,6/27/13,Kg,38,40,39
+614,Brd Leaf Mustard,6/27/13,Kg,35,40,37.5
+615,Spinach Leaf,6/27/13,Kg,40,45,42.5
+616,Cress Leaf,6/27/13,Kg,40,45,42.5
+617,Mustard Leaf,6/27/13,Kg,35,40,37.5
+618,Fenugreek Leaf,6/27/13,Kg,40,45,42.5
+619,Onion Green,6/27/13,Kg,40,45,42.5
+620,Mushroom(Kanya),6/27/13,Kg,170,180,175
+621,Asparagus,6/27/13,Kg,100,125,112.5
+622,Neuro,6/27/13,Kg,50,60,55
+623,Sugarbeet,6/27/13,Kg,35,40,37.5
+624,Red Cabbbage,6/27/13,Kg,70,80,75
+625,Lettuce,6/27/13,Kg,45,50,47.5
+626,Celery,6/27/13,Kg,120,130,125
+627,Parseley,6/27/13,Kg,170,180,175
+628,Fennel Leaf,6/27/13,Kg,45,50,47.5
+629,Mint,6/27/13,Kg,120,130,125
+630,Turnip A,6/27/13,Kg,40,45,42.5
+631,Tamarind,6/27/13,Kg,65,70,67.5
+632,Bamboo Shoot,6/27/13,Kg,50,60,55
+633,Tofu,6/27/13,Kg,55,60,57.5
+634,Gundruk,6/27/13,Kg,180,190,185
+635,Apple(Jholey),6/27/13,Kg,110,120,115
+636,Banana,6/27/13,Doz,50,60,55
+637,Lime,6/27/13,Kg,200,400,300
+638,Pomegranate,6/27/13,Kg,220,240,230
+639,Mango(Maldah),6/27/13,Kg,50,60,55
+640,Grapes(Green),6/27/13,Kg,250,260,255
+641,Water Melon(Green),6/27/13,Kg,18,20,19
+642,Sweet Orange,6/27/13,Kg,90,100,95
+643,Pineapple,6/27/13,1 Pc,60,70,65
+644,Cucumber(Local),6/27/13,Kg,30,35,32.5
+645,Jack Fruit,6/27/13,Kg,18,20,19
+646,Papaya(Nepali),6/27/13,Kg,55,60,57.5
+647,Sugarcane,6/27/13,1 Pc,50,60,55
+648,Ginger,6/27/13,Kg,130,140,135
+649,Chilli Dry,6/27/13,Kg,170,180,175
+650,Chilli Green,6/27/13,Kg,25,30,27.5
+651,Capsicum,6/27/13,Kg,90,100,95
+652,Garlic Green,6/27/13,Kg,45,50,47.5
+653,Coriander Green,6/27/13,Kg,30,40,35
+654,Garlic Dry Chinese,6/27/13,Kg,90,100,95
+655,Garlic Dry Nepali,6/27/13,Kg,50,60,55
+656,Clive Dry,6/27/13,Kg,70,80,75
+657,Clive Green,6/27/13,Kg,50,60,55
+658,Fish Fresh,6/27/13,Kg,210,220,215
+659,Tomato Big(Nepali),6/28/13,Kg,30,35,32.5
+660,Tomato Small(Local),6/28/13,Kg,24,28,26
+661,Potato Red,6/28/13,Kg,23,24,23.5
+662,Potato White,6/28/13,Kg,19,20,19.5
+663,Onion Dry (Indian),6/28/13,Kg,36,38,37
+664,Carrot(Local),6/28/13,Kg,40,42,41
+665,Cabbage(Local),6/28/13,Kg,10,14,12
+666,Cauli Local,6/28/13,Kg,25,30,27.5
+667,Raddish Red,6/28/13,Kg,35,40,37.5
+668,Raddish White(Local),6/28/13,Kg,25,30,27.5
+669,Brinjal Long,6/28/13,Kg,35,40,37.5
+670,Cow pea(Long),6/28/13,Kg,40,50,45
+671,French Bean(Local),6/28/13,Kg,35,40,37.5
+672,Soyabean Green,6/28/13,Kg,40,45,42.5
+673,Bitter Gourd,6/28/13,Kg,25,30,27.5
+674,Bottle Gourd,6/28/13,Kg,25,30,27.5
+675,Pointed Gourd(Local),6/28/13,Kg,35,40,37.5
+676,Snake Gourd,6/28/13,Kg,28,32,30
+677,Smooth Gourd,6/28/13,Kg,25,30,27.5
+678,Sponge Gourd,6/28/13,Kg,40,45,42.5
+679,Pumpkin,6/28/13,Kg,16,20,18
+680,Squash(Long),6/28/13,Kg,18,22,20
+681,Okara,6/28/13,Kg,35,40,37.5
+682,Arum,6/28/13,Kg,35,40,37.5
+683,Christophine,6/28/13,Kg,35,40,37.5
+684,Brd Leaf Mustard,6/28/13,Kg,35,40,37.5
+685,Spinach Leaf,6/28/13,Kg,40,45,42.5
+686,Cress Leaf,6/28/13,Kg,40,45,42.5
+687,Mustard Leaf,6/28/13,Kg,35,40,37.5
+688,Fenugreek Leaf,6/28/13,Kg,40,45,42.5
+689,Onion Green,6/28/13,Kg,35,40,37.5
+690,Mushroom(Kanya),6/28/13,Kg,150,170,160
+691,Asparagus,6/28/13,Kg,100,125,112.5
+692,Neuro,6/28/13,Kg,50,60,55
+693,Sugarbeet,6/28/13,Kg,35,40,37.5
+694,Red Cabbbage,6/28/13,Kg,70,80,75
+695,Lettuce,6/28/13,Kg,45,50,47.5
+696,Celery,6/28/13,Kg,120,130,125
+697,Parseley,6/28/13,Kg,170,180,175
+698,Fennel Leaf,6/28/13,Kg,45,50,47.5
+699,Mint,6/28/13,Kg,120,130,125
+700,Turnip A,6/28/13,Kg,45,50,47.5
+701,Tamarind,6/28/13,Kg,65,70,67.5
+702,Bamboo Shoot,6/28/13,Kg,60,70,65
+703,Tofu,6/28/13,Kg,55,60,57.5
+704,Gundruk,6/28/13,Kg,180,190,185
+705,Apple(Jholey),6/28/13,Kg,110,120,115
+706,Banana,6/28/13,Doz,50,60,55
+707,Lime,6/28/13,Kg,200,400,300
+708,Pomegranate,6/28/13,Kg,220,240,230
+709,Mango(Maldah),6/28/13,Kg,50,60,55
+710,Grapes(Green),6/28/13,Kg,250,260,255
+711,Water Melon(Green),6/28/13,Kg,18,20,19
+712,Sweet Orange,6/28/13,Kg,90,100,95
+713,Pineapple,6/28/13,1 Pc,60,70,65
+714,Cucumber(Local),6/28/13,Kg,30,35,32.5
+715,Jack Fruit,6/28/13,Kg,18,20,19
+716,Papaya(Nepali),6/28/13,Kg,50,60,55
+717,Sugarcane,6/28/13,1 Pc,50,60,55
+718,Ginger,6/28/13,Kg,130,140,135
+719,Chilli Dry,6/28/13,Kg,170,180,175
+720,Chilli Green,6/28/13,Kg,30,40,35
+721,Capsicum,6/28/13,Kg,90,100,95
+722,Garlic Green,6/28/13,Kg,45,50,47.5
+723,Coriander Green,6/28/13,Kg,50,70,60
+724,Garlic Dry Chinese,6/28/13,Kg,90,100,95
+725,Garlic Dry Nepali,6/28/13,Kg,50,60,55
+726,Clive Dry,6/28/13,Kg,70,80,75
+727,Clive Green,6/28/13,Kg,70,80,75
+728,Fish Fresh,6/28/13,Kg,210,220,215
+729,Tomato Big(Nepali),6/30/13,Kg,25,30,27.5
+730,Tomato Small(Local),6/30/13,Kg,18,22,20
+731,Potato Red,6/30/13,Kg,23,24,23.5
+732,Potato White,6/30/13,Kg,19,20,19.5
+733,Onion Dry (Indian),6/30/13,Kg,36,38,37
+734,Carrot(Local),6/30/13,Kg,40,45,42.5
+735,Cabbage(Local),6/30/13,Kg,12,15,13.5
+736,Cauli Local,6/30/13,Kg,30,40,35
+737,Raddish Red,6/30/13,Kg,45,50,47.5
+738,Raddish White(Local),6/30/13,Kg,25,30,27.5
+739,Brinjal Long,6/30/13,Kg,35,40,37.5
+740,Brinjal Round,6/30/13,Kg,40,45,42.5
+741,Cow pea(Long),6/30/13,Kg,40,45,42.5
+742,French Bean(Local),6/30/13,Kg,38,40,39
+743,Soyabean Green,6/30/13,Kg,40,45,42.5
+744,Bitter Gourd,6/30/13,Kg,28,32,30
+745,Bottle Gourd,6/30/13,Kg,30,32,31
+746,Pointed Gourd(Local),6/30/13,Kg,30,35,32.5
+747,Snake Gourd,6/30/13,Kg,28,30,29
+748,Smooth Gourd,6/30/13,Kg,25,30,27.5
+749,Sponge Gourd,6/30/13,Kg,40,45,42.5
+750,Pumpkin,6/30/13,Kg,16,20,18
+751,Squash(Long),6/30/13,Kg,15,18,16.5
+752,Okara,6/30/13,Kg,40,45,42.5
+753,Arum,6/30/13,Kg,35,40,37.5
+754,Christophine,6/30/13,Kg,38,40,39
+755,Brd Leaf Mustard,6/30/13,Kg,35,40,37.5
+756,Spinach Leaf,6/30/13,Kg,40,45,42.5
+757,Cress Leaf,6/30/13,Kg,35,40,37.5
+758,Mustard Leaf,6/30/13,Kg,35,40,37.5
+759,Fenugreek Leaf,6/30/13,Kg,45,50,47.5
+760,Onion Green,6/30/13,Kg,35,40,37.5
+761,Mushroom(Kanya),6/30/13,Kg,120,180,150
+762,Asparagus,6/30/13,Kg,110,130,120
+763,Neuro,6/30/13,Kg,50,60,55
+764,Sugarbeet,6/30/13,Kg,35,40,37.5
+765,Red Cabbbage,6/30/13,Kg,70,80,75
+766,Lettuce,6/30/13,Kg,45,50,47.5
+767,Celery,6/30/13,Kg,120,130,125
+768,Parseley,6/30/13,Kg,170,180,175
+769,Fennel Leaf,6/30/13,Kg,45,50,47.5
+770,Mint,6/30/13,Kg,120,130,125
+771,Turnip A,6/30/13,Kg,45,50,47.5
+772,Maize,6/30/13,1 Pc,5,6,5.5
+773,Tamarind,6/30/13,Kg,65,70,67.5
+774,Bamboo Shoot,6/30/13,Kg,60,70,65
+775,Tofu,6/30/13,Kg,55,60,57.5
+776,Gundruk,6/30/13,Kg,180,190,185
+777,Apple(Jholey),6/30/13,Kg,110,120,115
+778,Banana,6/30/13,Doz,40,50,45
+779,Lime,6/30/13,Kg,200,400,300
+780,Pomegranate,6/30/13,Kg,220,240,230
+781,Mango(Maldah),6/30/13,Kg,50,60,55
+782,Water Melon(Green),6/30/13,Kg,24,25,24.5
+783,Sweet Orange,6/30/13,Kg,100,110,105
+784,Pineapple,6/30/13,1 Pc,70,80,75
+785,Cucumber(Local),6/30/13,Kg,28,35,31.5
+786,Jack Fruit,6/30/13,Kg,15,20,17.5
+787,Sweet Lime,6/30/13,Kg,55,60,57.5
+788,Sugarcane,6/30/13,1 Pc,50,60,55
+789,Ginger,6/30/13,Kg,130,140,135
+790,Chilli Dry,6/30/13,Kg,170,180,175
+791,Chilli Green,6/30/13,Kg,40,50,45
+792,Capsicum,6/30/13,Kg,80,90,85
+793,Garlic Green,6/30/13,Kg,55,60,57.5
+794,Garlic Dry Chinese,6/30/13,Kg,90,100,95
+795,Garlic Dry Nepali,6/30/13,Kg,50,60,55
+796,Clive Dry,6/30/13,Kg,70,80,75
+797,Clive Green,6/30/13,Kg,70,80,75
+798,Fish Fresh,6/30/13,Kg,210,220,215
+799,Tomato Big(Nepali),7/1/13,Kg,25,30,27.5
+800,Tomato Small(Local),7/1/13,Kg,15,20,17.5
+801,Potato Red,7/1/13,Kg,22,24,23
+802,Potato White,7/1/13,Kg,19,20,19.5
+803,Onion Dry (Indian),7/1/13,Kg,37,38,37.5
+804,Carrot(Local),7/1/13,Kg,45,50,47.5
+805,Cabbage(Local),7/1/13,Kg,10,14,12
+806,Cauli Local,7/1/13,Kg,30,35,32.5
+807,Raddish Red,7/1/13,Kg,45,50,47.5
+808,Raddish White(Local),7/1/13,Kg,20,25,22.5
+809,Brinjal Long,7/1/13,Kg,35,40,37.5
+810,Cow pea(Long),7/1/13,Kg,40,45,42.5
+811,French Bean(Local),7/1/13,Kg,38,40,39
+812,Soyabean Green,7/1/13,Kg,38,40,39
+813,Bitter Gourd,7/1/13,Kg,25,30,27.5
+814,Bottle Gourd,7/1/13,Kg,30,35,32.5
+815,Pointed Gourd(Local),7/1/13,Kg,30,35,32.5
+816,Snake Gourd,7/1/13,Kg,35,40,37.5
+817,Smooth Gourd,7/1/13,Kg,20,25,22.5
+818,Sponge Gourd,7/1/13,Kg,40,45,42.5
+819,Pumpkin,7/1/13,Kg,16,20,18
+820,Squash(Long),7/1/13,Kg,15,20,17.5
+821,Okara,7/1/13,Kg,40,45,42.5
+822,Arum,7/1/13,Kg,28,32,30
+823,Christophine,7/1/13,Kg,40,42,41
+824,Brd Leaf Mustard,7/1/13,Kg,35,40,37.5
+825,Spinach Leaf,7/1/13,Kg,40,45,42.5
+826,Cress Leaf,7/1/13,Kg,40,45,42.5
+827,Mustard Leaf,7/1/13,Kg,35,40,37.5
+828,Fenugreek Leaf,7/1/13,Kg,40,45,42.5
+829,Onion Green,7/1/13,Kg,35,40,37.5
+830,Mushroom(Kanya),7/1/13,Kg,160,180,170
+831,Asparagus,7/1/13,Kg,120,130,125
+832,Neuro,7/1/13,Kg,50,60,55
+833,Sugarbeet,7/1/13,Kg,35,40,37.5
+834,Red Cabbbage,7/1/13,Kg,60,70,65
+835,Lettuce,7/1/13,Kg,50,60,55
+836,Celery,7/1/13,Kg,120,130,125
+837,Parseley,7/1/13,Kg,170,180,175
+838,Fennel Leaf,7/1/13,Kg,40,45,42.5
+839,Mint,7/1/13,Kg,120,130,125
+840,Turnip A,7/1/13,Kg,45,50,47.5
+841,Maize,7/1/13,1 Pc,5,7,6
+842,Tamarind,7/1/13,Kg,65,70,67.5
+843,Bamboo Shoot,7/1/13,Kg,50,60,55
+844,Tofu,7/1/13,Kg,55,60,57.5
+845,Gundruk,7/1/13,Kg,180,190,185
+846,Apple(Jholey),7/1/13,Kg,110,120,115
+847,Banana,7/1/13,Doz,40,50,45
+848,Lime,7/1/13,Kg,200,400,300
+849,Pomegranate,7/1/13,Kg,200,210,205
+850,Mango(Maldah),7/1/13,Kg,50,60,55
+851,Grapes(Green),7/1/13,Kg,250,260,255
+852,Water Melon(Green),7/1/13,Kg,20,25,22.5
+853,Sweet Orange,7/1/13,Kg,100,110,105
+854,Pineapple,7/1/13,1 Pc,60,70,65
+855,Cucumber(Local),7/1/13,Kg,25,30,27.5
+856,Jack Fruit,7/1/13,Kg,15,20,17.5
+857,Papaya(Nepali),7/1/13,Kg,55,60,57.5
+858,Sugarcane,7/1/13,1 Pc,50,60,55
+859,Ginger,7/1/13,Kg,140,150,145
+860,Chilli Dry,7/1/13,Kg,170,180,175
+861,Chilli Green,7/1/13,Kg,40,50,45
+862,Capsicum,7/1/13,Kg,80,90,85
+863,Garlic Green,7/1/13,Kg,40,45,42.5
+864,Coriander Green,7/1/13,Kg,60,70,65
+865,Garlic Dry Chinese,7/1/13,Kg,90,100,95
+866,Clive Dry,7/1/13,Kg,70,80,75
+867,Clive Green,7/1/13,Kg,50,60,55
+868,Fish Fresh,7/1/13,Kg,210,225,217.5
+869,Tomato Big(Nepali),7/2/13,Kg,30,35,32.5
+870,Tomato Small(Local),7/2/13,Kg,15,20,17.5
+871,Potato Red,7/2/13,Kg,23,24,23.5
+872,Potato White,7/2/13,Kg,18,20,19
+873,Onion Dry (Indian),7/2/13,Kg,38,40,39
+874,Carrot(Local),7/2/13,Kg,45,50,47.5
+875,Cabbage(Local),7/2/13,Kg,10,14,12
+876,Cauli Local,7/2/13,Kg,25,30,27.5
+877,Raddish White(Local),7/2/13,Kg,30,35,32.5
+878,Brinjal Long,7/2/13,Kg,30,35,32.5
+879,Cow pea(Long),7/2/13,Kg,40,50,45
+880,French Bean(Local),7/2/13,Kg,35,40,37.5
+881,Soyabean Green,7/2/13,Kg,35,40,37.5
+882,Bitter Gourd,7/2/13,Kg,25,30,27.5
+883,Bottle Gourd,7/2/13,Kg,35,40,37.5
+884,Pointed Gourd(Local),7/2/13,Kg,28,32,30
+885,Snake Gourd,7/2/13,Kg,30,35,32.5
+886,Smooth Gourd,7/2/13,Kg,25,30,27.5
+887,Sponge Gourd,7/2/13,Kg,40,45,42.5
+888,Pumpkin,7/2/13,Kg,16,20,18
+889,Squash(Long),7/2/13,Kg,30,35,32.5
+890,Okara,7/2/13,Kg,38,42,40
+891,Arum,7/2/13,Kg,28,30,29
+892,Christophine,7/2/13,Kg,40,45,42.5
+893,Brd Leaf Mustard,7/2/13,Kg,35,40,37.5
+894,Spinach Leaf,7/2/13,Kg,40,45,42.5
+895,Cress Leaf,7/2/13,Kg,40,45,42.5
+896,Mustard Leaf,7/2/13,Kg,35,40,37.5
+897,Fenugreek Leaf,7/2/13,Kg,40,45,42.5
+898,Onion Green,7/2/13,Kg,35,40,37.5
+899,Mushroom(Kanya),7/2/13,Kg,170,180,175
+900,Asparagus,7/2/13,Kg,120,130,125
+901,Neuro,7/2/13,Kg,50,60,55
+902,Sugarbeet,7/2/13,Kg,35,40,37.5
+903,Red Cabbbage,7/2/13,Kg,70,80,75
+904,Lettuce,7/2/13,Kg,45,50,47.5
+905,Celery,7/2/13,Kg,120,130,125
+906,Parseley,7/2/13,Kg,170,180,175
+907,Fennel Leaf,7/2/13,Kg,45,50,47.5
+908,Mint,7/2/13,Kg,120,130,125
+909,Turnip A,7/2/13,Kg,45,50,47.5
+910,Tamarind,7/2/13,Kg,70,80,75
+911,Bamboo Shoot,7/2/13,Kg,60,550,305
+912,Tofu,7/2/13,Kg,55,60,57.5
+913,Gundruk,7/2/13,Kg,180,190,185
+914,Apple(Jholey),7/2/13,Kg,110,130,120
+915,Banana,7/2/13,Doz,40,50,45
+916,Lime,7/2/13,Kg,200,400,300
+917,Pomegranate,7/2/13,Kg,200,210,205
+918,Mango(Maldah),7/2/13,Kg,50,60,55
+919,Grapes(Green),7/2/13,Kg,230,250,240
+920,Water Melon(Green),7/2/13,Kg,22,25,23.5
+921,Sweet Orange,7/2/13,Kg,90,100,95
+922,Pineapple,7/2/13,1 Pc,70,80,75
+923,Cucumber(Local),7/2/13,Kg,30,35,32.5
+924,Jack Fruit,7/2/13,Kg,20,150,85
+925,Papaya(Nepali),7/2/13,Kg,55,60,57.5
+926,Sugarcane,7/2/13,1 Pc,50,60,55
+927,Ginger,7/2/13,Kg,150,160,155
+928,Chilli Dry,7/2/13,Kg,170,180,175
+929,Chilli Green,7/2/13,Kg,28,30,29
+930,Capsicum,7/2/13,Kg,80,90,85
+931,Garlic Green,7/2/13,Kg,35,40,37.5
+932,Coriander Green,7/2/13,Kg,60,70,65
+933,Garlic Dry Chinese,7/2/13,Kg,90,100,95
+934,Garlic Dry Nepali,7/2/13,Kg,50,60,55
+935,Clive Dry,7/2/13,Kg,70,80,75
+936,Clive Green,7/2/13,Kg,45,50,47.5
+937,Fish Fresh,7/2/13,Kg,210,225,217.5
+938,Tomato Big(Nepali),7/3/13,Kg,30,35,32.5
+939,Tomato Small(Local),7/3/13,Kg,14,18,16
+940,Potato Red,7/3/13,Kg,22,23,22.5
+941,Potato White,7/3/13,Kg,18,19,18.5
+942,Onion Dry (Indian),7/3/13,Kg,40,42,41
+943,Carrot(Local),7/3/13,Kg,45,50,47.5
+944,Cabbage(Local),7/3/13,Kg,10,12,11
+945,Cauli Local,7/3/13,Kg,40,45,42.5
+946,Raddish White(Local),7/3/13,Kg,25,30,27.5
+947,Brinjal Long,7/3/13,Kg,35,40,37.5
+948,Brinjal Round,7/3/13,Kg,45,50,47.5
+949,Cow pea(Long),7/3/13,Kg,40,50,45
+950,French Bean(Local),7/3/13,Kg,35,40,37.5
+951,Soyabean Green,7/3/13,Kg,35,40,37.5
+952,Bitter Gourd,7/3/13,Kg,25,30,27.5
+953,Bottle Gourd,7/3/13,Kg,35,40,37.5
+954,Pointed Gourd(Local),7/3/13,Kg,28,32,30
+955,Snake Gourd,7/3/13,Kg,30,35,32.5
+956,Smooth Gourd,7/3/13,Kg,20,25,22.5
+957,Sponge Gourd,7/3/13,Kg,40,45,42.5
+958,Pumpkin,7/3/13,Kg,16,20,18
+959,Squash(Long),7/3/13,Kg,35,40,37.5
+960,Okara,7/3/13,Kg,40,45,42.5
+961,Arum,7/3/13,Kg,28,30,29
+962,Christophine,7/3/13,Kg,35,45,40
+963,Brd Leaf Mustard,7/3/13,Kg,35,40,37.5
+964,Spinach Leaf,7/3/13,Kg,40,45,42.5
+965,Cress Leaf,7/3/13,Kg,40,45,42.5
+966,Mustard Leaf,7/3/13,Kg,30,35,32.5
+967,Fenugreek Leaf,7/3/13,Kg,35,40,37.5
+968,Onion Green,7/3/13,Kg,35,40,37.5
+969,Mushroom(Kanya),7/3/13,Kg,170,180,175
+970,Asparagus,7/3/13,Kg,120,130,125
+971,Neuro,7/3/13,Kg,50,60,55
+972,Sugarbeet,7/3/13,Kg,55,60,57.5
+973,Red Cabbbage,7/3/13,Kg,60,70,65
+974,Lettuce,7/3/13,Kg,40,45,42.5
+975,Celery,7/3/13,Kg,120,130,125
+976,Parseley,7/3/13,Kg,170,180,175
+977,Fennel Leaf,7/3/13,Kg,40,45,42.5
+978,Mint,7/3/13,Kg,120,130,125
+979,Turnip A,7/3/13,Kg,45,50,47.5
+980,Tamarind,7/3/13,Kg,70,80,75
+981,Bamboo Shoot,7/3/13,Kg,60,70,65
+982,Tofu,7/3/13,Kg,55,60,57.5
+983,Gundruk,7/3/13,Kg,180,190,185
+984,Apple(Jholey),7/3/13,Kg,110,120,115
+985,Banana,7/3/13,Doz,40,50,45
+986,Lime,7/3/13,Kg,200,400,300
+987,Pomegranate,7/3/13,Kg,200,220,210
+988,Mango(Maldah),7/3/13,Kg,50,60,55
+989,Grapes(Green),7/3/13,Kg,250,260,255
+990,Water Melon(Green),7/3/13,Kg,20,25,22.5
+991,Sweet Orange,7/3/13,Kg,100,110,105
+992,Pineapple,7/3/13,1 Pc,60,70,65
+993,Cucumber(Local),7/3/13,Kg,30,35,32.5
+994,Jack Fruit,7/3/13,Kg,15,20,17.5
+995,Papaya(Nepali),7/3/13,Kg,55,60,57.5
+996,Sugarcane,7/3/13,1 Pc,50,60,55
+997,Ginger,7/3/13,Kg,150,160,155
+998,Chilli Dry,7/3/13,Kg,170,180,175
+999,Chilli Green,7/3/13,Kg,25,30,27.5
+1000,Capsicum,7/3/13,Kg,90,100,95
+1001,Garlic Green,7/3/13,Kg,35,40,37.5
+1002,Coriander Green,7/3/13,Kg,60,70,65
+1003,Garlic Dry Chinese,7/3/13,Kg,90,100,95
+1004,Garlic Dry Nepali,7/3/13,Kg,50,60,55
+1005,Clive Dry,7/3/13,Kg,70,80,75
+1006,Clive Green,7/3/13,Kg,50,60,55
+1007,Fish Fresh,7/3/13,Kg,210,225,217.5
+1008,Tomato Big(Nepali),7/4/13,Kg,30,35,32.5
+1009,Tomato Small(Local),7/4/13,Kg,14,18,16
+1010,Potato Red,7/4/13,Kg,23,24,23.5
+1011,Potato White,7/4/13,Kg,18,19,18.5
+1012,Onion Dry (Indian),7/4/13,Kg,40,42,41
+1013,Carrot(Local),7/4/13,Kg,45,50,47.5
+1014,Cabbage(Local),7/4/13,Kg,12,16,14
+1015,Cauli Local,7/4/13,Kg,40,45,42.5
+1016,Raddish White(Local),7/4/13,Kg,25,30,27.5
+1017,Brinjal Long,7/4/13,Kg,35,40,37.5
+1018,Brinjal Round,7/4/13,Kg,45,50,47.5
+1019,Cow pea(Long),7/4/13,Kg,40,50,45
+1020,French Bean(Local),7/4/13,Kg,35,40,37.5
+1021,Soyabean Green,7/4/13,Kg,35,40,37.5
+1022,Bitter Gourd,7/4/13,Kg,25,30,27.5
+1023,Bottle Gourd,7/4/13,Kg,35,40,37.5
+1024,Pointed Gourd(Local),7/4/13,Kg,30,35,32.5
+1025,Snake Gourd,7/4/13,Kg,30,32,31
+1026,Smooth Gourd,7/4/13,Kg,25,30,27.5
+1027,Sponge Gourd,7/4/13,Kg,40,45,42.5
+1028,Pumpkin,7/4/13,Kg,16,20,18
+1029,Squash(Long),7/4/13,Kg,35,40,37.5
+1030,Okara,7/4/13,Kg,40,44,42
+1031,Arum,7/4/13,Kg,28,30,29
+1032,Christophine,7/4/13,Kg,40,45,42.5
+1033,Brd Leaf Mustard,7/4/13,Kg,35,40,37.5
+1034,Spinach Leaf,7/4/13,Kg,40,45,42.5
+1035,Cress Leaf,7/4/13,Kg,40,45,42.5
+1036,Mustard Leaf,7/4/13,Kg,35,40,37.5
+1037,Fenugreek Leaf,7/4/13,Kg,40,45,42.5
+1038,Onion Green,7/4/13,Kg,35,40,37.5
+1039,Mushroom(Kanya),7/4/13,Kg,170,180,175
+1040,Asparagus,7/4/13,Kg,120,130,125
+1041,Neuro,7/4/13,Kg,50,60,55
+1042,Sugarbeet,7/4/13,Kg,50,60,55
+1043,Red Cabbbage,7/4/13,Kg,60,70,65
+1044,Lettuce,7/4/13,Kg,35,40,37.5
+1045,Celery,7/4/13,Kg,120,130,125
+1046,Parseley,7/4/13,Kg,170,180,175
+1047,Fennel Leaf,7/4/13,Kg,35,40,37.5
+1048,Mint,7/4/13,Kg,120,130,125
+1049,Turnip A,7/4/13,Kg,45,50,47.5
+1050,Tamarind,7/4/13,Kg,70,80,75
+1051,Bamboo Shoot,7/4/13,Kg,60,70,65
+1052,Tofu,7/4/13,Kg,55,60,57.5
+1053,Gundruk,7/4/13,Kg,180,190,185
+1054,Apple(Jholey),7/4/13,Kg,100,110,105
+1055,Banana,7/4/13,Doz,40,50,45
+1056,Lime,7/4/13,Kg,200,400,300
+1057,Pomegranate,7/4/13,Kg,190,200,195
+1058,Mango(Maldah),7/4/13,Kg,50,60,55
+1059,Grapes(Green),7/4/13,Kg,250,260,255
+1060,Water Melon(Green),7/4/13,Kg,20,25,22.5
+1061,Sweet Orange,7/4/13,Kg,90,100,95
+1062,Pineapple,7/4/13,1 Pc,60,70,65
+1063,Cucumber(Local),7/4/13,Kg,30,35,32.5
+1064,Jack Fruit,7/4/13,Kg,15,20,17.5
+1065,Papaya(Nepali),7/4/13,Kg,50,60,55
+1066,Sugarcane,7/4/13,1 Pc,50,60,55
+1067,Ginger,7/4/13,Kg,150,160,155
+1068,Chilli Dry,7/4/13,Kg,170,180,175
+1069,Chilli Green,7/4/13,Kg,30,35,32.5
+1070,Capsicum,7/4/13,Kg,90,100,95
+1071,Garlic Green,7/4/13,Kg,35,40,37.5
+1072,Coriander Green,7/4/13,Kg,50,60,55
+1073,Garlic Dry Chinese,7/4/13,Kg,90,100,95
+1074,Garlic Dry Nepali,7/4/13,Kg,50,60,55
+1075,Clive Dry,7/4/13,Kg,70,80,75
+1076,Clive Green,7/4/13,Kg,50,60,55
+1077,Fish Fresh,7/4/13,Kg,210,220,215
+1078,Tomato Big(Nepali),7/5/13,Kg,30,35,32.5
+1079,Tomato Small(Local),7/5/13,Kg,18,24,21
+1080,Potato Red,7/5/13,Kg,22,24,23
+1081,Potato White,7/5/13,Kg,18,19,18.5
+1082,Onion Dry (Indian),7/5/13,Kg,40,42,41
+1083,Carrot(Local),7/5/13,Kg,45,50,47.5
+1084,Cabbage(Local),7/5/13,Kg,12,16,14
+1085,Cauli Local,7/5/13,Kg,40,45,42.5
+1086,Raddish White(Local),7/5/13,Kg,30,35,32.5
+1087,Brinjal Long,7/5/13,Kg,35,40,37.5
+1088,Brinjal Round,7/5/13,Kg,45,50,47.5
+1089,Cow pea(Long),7/5/13,Kg,40,50,45
+1090,French Bean(Local),7/5/13,Kg,35,40,37.5
+1091,Soyabean Green,7/5/13,Kg,40,45,42.5
+1092,Bitter Gourd,7/5/13,Kg,35,40,37.5
+1093,Bottle Gourd,7/5/13,Kg,35,40,37.5
+1094,Pointed Gourd(Local),7/5/13,Kg,40,45,42.5
+1095,Snake Gourd,7/5/13,Kg,35,40,37.5
+1096,Smooth Gourd,7/5/13,Kg,30,35,32.5
+1097,Pumpkin,7/5/13,Kg,18,22,20
+1098,Squash(Long),7/5/13,Kg,35,40,37.5
+1099,Okara,7/5/13,Kg,40,45,42.5
+1100,Arum,7/5/13,Kg,30,35,32.5
+1101,Christophine,7/5/13,Kg,40,45,42.5
+1102,Brd Leaf Mustard,7/5/13,Kg,35,40,37.5
+1103,Spinach Leaf,7/5/13,Kg,35,40,37.5
+1104,Cress Leaf,7/5/13,Kg,35,40,37.5
+1105,Mustard Leaf,7/5/13,Kg,30,35,32.5
+1106,Fenugreek Leaf,7/5/13,Kg,35,40,37.5
+1107,Onion Green,7/5/13,Kg,35,40,37.5
+1108,Mushroom(Kanya),7/5/13,Kg,170,180,175
+1109,Asparagus,7/5/13,Kg,120,130,125
+1110,Neuro,7/5/13,Kg,50,60,55
+1111,Sugarbeet,7/5/13,Kg,55,60,57.5
+1112,Red Cabbbage,7/5/13,Kg,60,70,65
+1113,Lettuce,7/5/13,Kg,45,50,47.5
+1114,Celery,7/5/13,Kg,120,130,125
+1115,Parseley,7/5/13,Kg,170,180,175
+1116,Fennel Leaf,7/5/13,Kg,45,50,47.5
+1117,Mint,7/5/13,Kg,120,130,125
+1118,Turnip A,7/5/13,Kg,45,50,47.5
+1119,Tamarind,7/5/13,Kg,70,80,75
+1120,Bamboo Shoot,7/5/13,Kg,60,70,65
+1121,Tofu,7/5/13,Kg,55,60,57.5
+1122,Gundruk,7/5/13,Kg,180,190,185
+1123,Apple(Jholey),7/5/13,Kg,100,110,105
+1124,Banana,7/5/13,Doz,40,50,45
+1125,Lime,7/5/13,Kg,,400,300
+1126,Pomegranate,7/5/13,Kg,200,210,205
+1127,Mango(Maldah),7/5/13,Kg,50,60,55
+1128,Grapes(Green),7/5/13,Kg,250,260,255
+1129,Water Melon(Green),7/5/13,Kg,20,25,22.5
+1130,Sweet Orange,7/5/13,Kg,90,100,95
+1131,Pineapple,7/5/13,1 Pc,60,70,65
+1132,Cucumber(Local),7/5/13,Kg,30,35,32.5
+1133,Jack Fruit,7/5/13,Kg,15,20,17.5
+1134,Papaya(Nepali),7/5/13,Kg,50,60,55
+1135,Sugarcane,7/5/13,1 Pc,60,70,65
+1136,Ginger,7/5/13,Kg,,160,155
+1137,Chilli Dry,7/5/13,Kg,170,180,175
+1138,Chilli Green,7/5/13,Kg,30,35,32.5
+1139,Capsicum,7/5/13,Kg,90,100,95
+1140,Garlic Green,7/5/13,Kg,35,40,37.5
+1141,Coriander Green,7/5/13,Kg,50,60,55
+1142,Garlic Dry Chinese,7/5/13,Kg,90,100,95
+1143,Garlic Dry Nepali,7/5/13,Kg,50,60,55
+1144,Clive Dry,7/5/13,Kg,70,,75
+1145,Clive Green,7/5/13,Kg,50,60,55
+1146,Fish Fresh,7/5/13,Kg,210,250,230
+1147,Tomato Big(Nepali),7/9/13,Kg,55,60,57.5
+1148,Tomato Small(Local),7/9/13,Kg,20,25,22.5
+1149,Potato Red,7/9/13,Kg,23,24,23.5
+1150,Potato White,7/9/13,Kg,18,20,19
+1151,Onion Dry (Indian),7/9/13,Kg,44,46,45
+1152,Carrot(Local),7/9/13,Kg,35,40,37.5
+1153,Cabbage(Local),7/9/13,Kg,12,16,14
+1154,Cauli Local,7/9/13,Kg,40,45,42.5
+1155,Raddish White(Local),7/9/13,Kg,20,25,22.5
+1156,Brinjal Long,7/9/13,Kg,38,40,39
+1157,Brinjal Round,7/9/13,Kg,40,45,42.5
+1158,Cow pea(Long),7/9/13,Kg,40,45,42.5
+1159,French Bean(Local),7/9/13,Kg,35,40,37.5
+1160,Bitter Gourd,7/9/13,Kg,40,45,42.5
+1161,Bottle Gourd,7/9/13,Kg,35,42,38.5
+1162,Pointed Gourd(Local),7/9/13,Kg,40,45,42.5
+1163,Snake Gourd,7/9/13,Kg,30,35,32.5
+1164,Smooth Gourd,7/9/13,Kg,40,45,42.5
+1165,Sponge Gourd,7/9/13,Kg,40,45,42.5
+1166,Pumpkin,7/9/13,Kg,18,20,19
+1167,Squash(Long),7/9/13,Kg,30,35,32.5
+1168,Okara,7/9/13,Kg,35,40,37.5
+1169,Arum,7/9/13,Kg,30,35,32.5
+1170,Christophine,7/9/13,Kg,35,40,37.5
+1171,Brd Leaf Mustard,7/9/13,Kg,35,40,37.5
+1172,Spinach Leaf,7/9/13,Kg,40,45,42.5
+1173,Cress Leaf,7/9/13,Kg,40,45,42.5
+1174,Mustard Leaf,7/9/13,Kg,35,40,37.5
+1175,Fenugreek Leaf,7/9/13,Kg,35,40,37.5
+1176,Onion Green,7/9/13,Kg,35,40,37.5
+1177,Mushroom(Kanya),7/9/13,Kg,180,200,190
+1178,Asparagus,7/9/13,Kg,120,130,125
+1179,Neuro,7/9/13,Kg,50,60,55
+1180,Sugarbeet,7/9/13,Kg,55,60,57.5
+1181,Red Cabbbage,7/9/13,Kg,60,70,65
+1182,Lettuce,7/9/13,Kg,35,40,37.5
+1183,Celery,7/9/13,Kg,120,130,125
+1184,Parseley,7/9/13,Kg,170,180,175
+1185,Fennel Leaf,7/9/13,Kg,35,40,37.5
+1186,Mint,7/9/13,Kg,120,130,125
+1187,Turnip A,7/9/13,Kg,45,50,47.5
+1188,Maize,7/9/13,1 Pc,6,7,6.5
+1189,Tamarind,7/9/13,Kg,70,80,75
+1190,Bamboo Shoot,7/9/13,Kg,60,70,65
+1191,Tofu,7/9/13,Kg,55,60,57.5
+1192,Gundruk,7/9/13,Kg,170,180,175
+1193,Apple(Jholey),7/9/13,Kg,100,110,105
+1194,Banana,7/9/13,Doz,40,50,45
+1195,Lime,7/9/13,Kg,200,400,300
+1196,Pomegranate,7/9/13,Kg,200,220,210
+1197,Mango(Maldah),7/9/13,Kg,50,70,60
+1198,Grapes(Green),7/9/13,Kg,250,260,255
+1199,Water Melon(Green),7/9/13,Kg,40,45,42.5
+1200,Sweet Orange,7/9/13,Kg,90,100,95
+1201,Pineapple,7/9/13,1 Pc,70,80,75
+1202,Cucumber(Local),7/9/13,Kg,30,35,32.5
+1203,Jack Fruit,7/9/13,Kg,15,20,17.5
+1204,Papaya(Nepali),7/9/13,Kg,50,60,55
+1205,Sugarcane,7/9/13,1 Pc,60,70,65
+1206,Ginger,7/9/13,Kg,150,160,155
+1207,Chilli Dry,7/9/13,Kg,170,180,175
+1208,Chilli Green,7/9/13,Kg,40,50,45
+1209,Capsicum,7/9/13,Kg,90,100,95
+1210,Garlic Green,7/9/13,Kg,35,40,37.5
+1211,Coriander Green,7/9/13,Kg,80,90,85
+1212,Garlic Dry Chinese,7/9/13,Kg,90,100,95
+1213,Garlic Dry Nepali,7/9/13,Kg,70,80,75
+1214,Clive Dry,7/9/13,Kg,70,80,75
+1215,Clive Green,7/9/13,Kg,50,60,55
+1216,Fish Fresh,7/9/13,Kg,210,220,215
+1217,Tomato Big(Nepali),7/10/13,Kg,55,60,57.5
+1218,Tomato Small(Local),7/10/13,Kg,30,35,32.5
+1219,Potato Red,7/10/13,Kg,23,24,23.5
+1220,Potato White,7/10/13,Kg,18,20,19
+1221,Onion Dry (Indian),7/10/13,Kg,45,47,46
+1222,Carrot(Local),7/10/13,Kg,35,40,37.5
+1223,Cabbage(Local),7/10/13,Kg,14,16,15
+1224,Cauli Local,7/10/13,Kg,40,45,42.5
+1225,Raddish White(Local),7/10/13,Kg,25,30,27.5
+1226,Brinjal Long,7/10/13,Kg,40,45,42.5
+1227,Brinjal Round,7/10/13,Kg,45,50,47.5
+1228,Cow pea(Long),7/10/13,Kg,40,45,42.5
+1229,French Bean(Local),7/10/13,Kg,35,40,37.5
+1230,Soyabean Green,7/10/13,Kg,45,50,47.5
+1231,Bitter Gourd,7/10/13,Kg,40,45,42.5
+1232,Bottle Gourd,7/10/13,Kg,35,40,37.5
+1233,Pointed Gourd(Local),7/10/13,Kg,45,50,47.5
+1234,Snake Gourd,7/10/13,Kg,30,35,32.5
+1235,Smooth Gourd,7/10/13,Kg,35,40,37.5
+1236,Sponge Gourd,7/10/13,Kg,40,45,42.5
+1237,Pumpkin,7/10/13,Kg,18,20,19
+1238,Squash(Long),7/10/13,Kg,30,35,32.5
+1239,Okara,7/10/13,Kg,35,,37.5
+1240,Arum,7/10/13,Kg,30,35,32.5
+1241,Christophine,7/10/13,Kg,35,40,37.5
+1242,Brd Leaf Mustard,7/10/13,Kg,35,40,37.5
+1243,Spinach Leaf,7/10/13,Kg,35,40,37.5
+1244,Cress Leaf,7/10/13,Kg,35,40,37.5
+1245,Mustard Leaf,7/10/13,Kg,30,35,32.5
+1246,Fenugreek Leaf,7/10/13,Kg,35,40,37.5
+1247,Onion Green,7/10/13,Kg,30,35,32.5
+1248,Mushroom(Kanya),7/10/13,Kg,180,200,190
+1249,Asparagus,7/10/13,Kg,120,150,135
+1250,Neuro,7/10/13,Kg,50,60,55
+1251,Sugarbeet,7/10/13,Kg,55,60,57.5
+1252,Red Cabbbage,7/10/13,Kg,60,70,65
+1253,Lettuce,7/10/13,Kg,45,50,47.5
+1254,Celery,7/10/13,Kg,120,130,125
+1255,Parseley,7/10/13,Kg,170,180,175
+1256,Fennel Leaf,7/10/13,Kg,45,50,47.5
+1257,Mint,7/10/13,Kg,120,130,125
+1258,Turnip A,7/10/13,Kg,45,50,47.5
+1259,Maize,7/10/13,1 Pc,6,7,6.5
+1260,Tamarind,7/10/13,Kg,70,80,75
+1261,Bamboo Shoot,7/10/13,Kg,60,70,65
+1262,Tofu,7/10/13,Kg,55,60,57.5
+1263,Gundruk,7/10/13,Kg,180,190,185
+1264,Apple(Jholey),7/10/13,Kg,110,120,115
+1265,Banana,7/10/13,Doz,50,60,55
+1266,Lime,7/10/13,Kg,300,500,400
+1267,Pomegranate,7/10/13,Kg,200,220,210
+1268,Mango(Maldah),7/10/13,Kg,70,80,75
+1269,Grapes(Green),7/10/13,Kg,250,270,260
+1270,Water Melon(Green),7/10/13,Kg,40,45,42.5
+1271,Sweet Orange,7/10/13,Kg,90,100,95
+1272,Pineapple,7/10/13,1 Pc,50,60,55
+1273,Cucumber(Local),7/10/13,Kg,30,35,32.5
+1274,Jack Fruit,7/10/13,Kg,15,20,17.5
+1275,Papaya(Nepali),7/10/13,Kg,50,60,55
+1276,Sugarcane,7/10/13,1 Pc,50,60,55
+1277,Ginger,7/10/13,Kg,150,160,155
+1278,Chilli Dry,7/10/13,Kg,170,180,175
+1279,Chilli Green,7/10/13,Kg,30,35,32.5
+1280,Capsicum,7/10/13,Kg,90,100,95
+1281,Garlic Green,7/10/13,Kg,45,50,47.5
+1282,Coriander Green,7/10/13,Kg,90,100,95
+1283,Garlic Dry Chinese,7/10/13,Kg,90,100,95
+1284,Garlic Dry Nepali,7/10/13,Kg,70,80,75
+1285,Clive Dry,7/10/13,Kg,70,80,75
+1286,Fish Fresh,7/10/13,Kg,210,220,215
+1287,Tomato Big(Nepali),7/11/13,Kg,55,60,57.5
+1288,Tomato Small(Local),7/11/13,Kg,32,38,35
+1289,Potato Red,7/11/13,Kg,23,24,23.5
+1290,Potato White,7/11/13,Kg,18,20,19
+1291,Onion Dry (Indian),7/11/13,Kg,44,46,45
+1292,Carrot(Local),7/11/13,Kg,35,40,37.5
+1293,Cabbage(Local),7/11/13,Kg,14,16,15
+1294,Cauli Local,7/11/13,Kg,60,70,65
+1295,Raddish White(Local),7/11/13,Kg,25,30,27.5
+1296,Brinjal Long,7/11/13,Kg,35,40,37.5
+1297,Brinjal Round,7/11/13,Kg,40,45,42.5
+1298,Cow pea(Long),7/11/13,Kg,35,40,37.5
+1299,French Bean(Local),7/11/13,Kg,35,40,37.5
+1300,Soyabean Green,7/11/13,Kg,45,50,47.5
+1301,Bitter Gourd,7/11/13,Kg,35,40,37.5
+1302,Bottle Gourd,7/11/13,Kg,35,40,37.5
+1303,Pointed Gourd(Local),7/11/13,Kg,55,60,57.5
+1304,Snake Gourd,7/11/13,Kg,35,40,37.5
+1305,Smooth Gourd,7/11/13,Kg,25,30,27.5
+1306,Sponge Gourd,7/11/13,Kg,40,45,42.5
+1307,Pumpkin,7/11/13,Kg,18,20,19
+1308,Squash(Long),7/11/13,Kg,50,55,52.5
+1309,Okara,7/11/13,Kg,32,36,34
+1310,Arum,7/11/13,Kg,30,35,32.5
+1311,Christophine,7/11/13,Kg,40,45,42.5
+1312,Brd Leaf Mustard,7/11/13,Kg,35,40,37.5
+1313,Spinach Leaf,7/11/13,Kg,40,45,42.5
+1314,Cress Leaf,7/11/13,Kg,40,45,42.5
+1315,Mustard Leaf,7/11/13,Kg,30,35,32.5
+1316,Fenugreek Leaf,7/11/13,Kg,35,40,37.5
+1317,Onion Green,7/11/13,Kg,35,40,37.5
+1318,Mushroom(Kanya),7/11/13,Kg,180,200,190
+1319,Asparagus,7/11/13,Kg,120,130,125
+1320,Neuro,7/11/13,Kg,50,60,55
+1321,Sugarbeet,7/11/13,Kg,55,60,57.5
+1322,Red Cabbbage,7/11/13,Kg,60,70,65
+1323,Lettuce,7/11/13,Kg,45,50,47.5
+1324,Celery,7/11/13,Kg,120,130,125
+1325,Parseley,7/11/13,Kg,170,180,175
+1326,Fennel Leaf,7/11/13,Kg,40,45,42.5
+1327,Mint,7/11/13,Kg,120,130,125
+1328,Maize,7/11/13,1 Pc,6,7,6.5
+1329,Tamarind,7/11/13,Kg,70,80,75
+1330,Bamboo Shoot,7/11/13,Kg,60,70,65
+1331,Tofu,7/11/13,Kg,55,60,57.5
+1332,Gundruk,7/11/13,Kg,170,180,175
+1333,Apple(Jholey),7/11/13,Kg,100,110,105
+1334,Banana,7/11/13,Doz,50,60,55
+1335,Lime,7/11/13,Kg,300,500,400
+1336,Pomegranate,7/11/13,Kg,190,200,195
+1337,Mango(Maldah),7/11/13,Kg,60,70,65
+1338,Grapes(Green),7/11/13,Kg,250,260,255
+1339,Water Melon(Green),7/11/13,Kg,40,45,42.5
+1340,Sweet Orange,7/11/13,Kg,90,100,95
+1341,Pineapple,7/11/13,1 Pc,70,80,75
+1342,Cucumber(Local),7/11/13,Kg,30,35,32.5
+1343,Jack Fruit,7/11/13,Kg,15,18,16.5
+1344,Papaya(Nepali),7/11/13,Kg,50,60,55
+1345,Sugarcane,7/11/13,1 Pc,50,60,55
+1346,Ginger,7/11/13,Kg,150,160,155
+1347,Chilli Dry,7/11/13,Kg,170,180,175
+1348,Chilli Green,7/11/13,Kg,30,40,35
+1349,Capsicum,7/11/13,Kg,90,100,95
+1350,Garlic Green,7/11/13,Kg,45,50,47.5
+1351,Coriander Green,7/11/13,Kg,60,80,70
+1352,Garlic Dry Chinese,7/11/13,Kg,90,100,95
+1353,Garlic Dry Nepali,7/11/13,Kg,70,80,75
+1354,Clive Green,7/11/13,Kg,60,70,65
+1355,Fish Fresh,7/11/13,Kg,210,220,215
+1356,Tomato Big(Nepali),7/12/13,Kg,70,80,75
+1357,Tomato Small(Local),7/12/13,Kg,44,48,46
+1358,Potato Red,7/12/13,Kg,23,24,23.5
+1359,Potato White,7/12/13,Kg,19,20,19.5
+1360,Onion Dry (Indian),7/12/13,Kg,44,46,45
+1361,Carrot(Local),7/12/13,Kg,45,50,47.5
+1362,Cabbage(Local),7/12/13,Kg,12,16,14
+1363,Cauli Local,7/12/13,Kg,40,50,45
+1364,Raddish White(Local),7/12/13,Kg,20,25,22.5
+1365,Brinjal Long,7/12/13,Kg,30,40,35
+1366,Brinjal Round,7/12/13,Kg,40,45,42.5
+1367,Cow pea(Long),7/12/13,Kg,35,40,37.5
+1368,French Bean(Local),7/12/13,Kg,30,35,32.5
+1369,Soyabean Green,7/12/13,Kg,55,60,57.5
+1370,Bitter Gourd,7/12/13,Kg,35,40,37.5
+1371,Bottle Gourd,7/12/13,Kg,30,35,32.5
+1372,Pointed Gourd(Local),7/12/13,Kg,35,40,37.5
+1373,Snake Gourd,7/12/13,Kg,35,40,37.5
+1374,Smooth Gourd,7/12/13,Kg,25,30,27.5
+1375,Sponge Gourd,7/12/13,Kg,30,35,32.5
+1376,Pumpkin,7/12/13,Kg,18,20,19
+1377,Squash(Long),7/12/13,Kg,45,50,47.5
+1378,Okara,7/12/13,Kg,30,35,32.5
+1379,Arum,7/12/13,Kg,30,35,32.5
+1380,Christophine,7/12/13,Kg,38,40,39
+1381,Brd Leaf Mustard,7/12/13,Kg,35,40,37.5
+1382,Spinach Leaf,7/12/13,Kg,40,45,42.5
+1383,Cress Leaf,7/12/13,Kg,40,45,42.5
+1384,Mustard Leaf,7/12/13,Kg,30,35,32.5
+1385,Fenugreek Leaf,7/12/13,Kg,40,45,42.5
+1386,Onion Green,7/12/13,Kg,40,45,42.5
+1387,Mushroom(Kanya),7/12/13,Kg,190,200,195
+1388,Asparagus,7/12/13,Kg,120,130,125
+1389,Neuro,7/12/13,Kg,50,60,55
+1390,Sugarbeet,7/12/13,Kg,55,60,57.5
+1391,Red Cabbbage,7/12/13,Kg,60,70,65
+1392,Lettuce,7/12/13,Kg,45,50,47.5
+1393,Celery,7/12/13,Kg,120,130,125
+1394,Parseley,7/12/13,Kg,170,180,175
+1395,Fennel Leaf,7/12/13,Kg,45,50,47.5
+1396,Mint,7/12/13,Kg,120,130,125
+1397,Turnip A,7/12/13,Kg,45,50,47.5
+1398,Maize,7/12/13,1 Pc,6,7,6.5
+1399,Tamarind,7/12/13,Kg,70,80,75
+1400,Bamboo Shoot,7/12/13,Kg,60,70,65
+1401,Tofu,7/12/13,Kg,55,60,57.5
+1402,Gundruk,7/12/13,Kg,170,180,175
+1403,Apple(Jholey),7/12/13,Kg,100,110,105
+1404,Banana,7/12/13,Doz,50,60,55
+1405,Lime,7/12/13,Kg,400,500,450
+1406,Pomegranate,7/12/13,Kg,200,210,205
+1407,Mango(Maldah),7/12/13,Kg,60,70,65
+1408,Grapes(Green),7/12/13,Kg,250,260,255
+1409,Water Melon(Green),7/12/13,Kg,45,50,47.5
+1410,Sweet Orange,7/12/13,Kg,90,100,95
+1411,Pineapple,7/12/13,1 Pc,70,80,75
+1412,Cucumber(Local),7/12/13,Kg,30,35,32.5
+1413,Jack Fruit,7/12/13,Kg,15,20,17.5
+1414,Papaya(Nepali),7/12/13,Kg,45,50,47.5
+1415,Sugarcane,7/12/13,1 Pc,50,60,55
+1416,Ginger,7/12/13,Kg,160,170,165
+1417,Chilli Dry,7/12/13,Kg,170,180,175
+1418,Chilli Green,7/12/13,Kg,30,35,32.5
+1419,Capsicum,7/12/13,Kg,110,120,115
+1420,Garlic Green,7/12/13,Kg,45,50,47.5
+1421,Coriander Green,7/12/13,Kg,60,70,65
+1422,Garlic Dry Chinese,7/12/13,Kg,85,95,90
+1423,Garlic Dry Nepali,7/12/13,Kg,50,60,55
+1424,Clive Green,7/12/13,Kg,50,60,55
+1425,Fish Fresh,7/12/13,Kg,210,220,215
+1426,Tomato Big(Nepali),7/14/13,Kg,75,80,77.5
+1427,Tomato Small(Local),7/14/13,Kg,50,55,52.5
+1428,Potato Red,7/14/13,Kg,24,24,24
+1429,Potato White,7/14/13,Kg,18,19,18.5
+1430,Onion Dry (Indian),7/14/13,Kg,44,46,45
+1431,Carrot(Local),7/14/13,Kg,45,50,47.5
+1432,Cabbage(Local),7/14/13,Kg,14,16,15
+1433,Cauli Local,7/14/13,Kg,55,60,57.5
+1434,Raddish White(Local),7/14/13,Kg,20,25,22.5
+1435,Brinjal Long,7/14/13,Kg,40,45,42.5
+1436,Brinjal Round,7/14/13,Kg,45,50,47.5
+1437,Cow pea(Long),7/14/13,Kg,35,40,37.5
+1438,French Bean(Local),7/14/13,Kg,30,35,32.5
+1439,Soyabean Green,7/14/13,Kg,50,55,52.5
+1440,Bitter Gourd,7/14/13,Kg,30,35,32.5
+1441,Bottle Gourd,7/14/13,Kg,35,40,37.5
+1442,Pointed Gourd(Local),7/14/13,Kg,38,42,40
+1443,Snake Gourd,7/14/13,Kg,30,35,32.5
+1444,Smooth Gourd,7/14/13,Kg,25,30,27.5
+1445,Sponge Gourd,7/14/13,Kg,40,45,42.5
+1446,Pumpkin,7/14/13,Kg,18,20,19
+1447,Squash(Long),7/14/13,Kg,45,50,47.5
+1448,Okara,7/14/13,Kg,34,38,36
+1449,Arum,7/14/13,Kg,30,35,32.5
+1450,Christophine,7/14/13,Kg,40,45,42.5
+1451,Brd Leaf Mustard,7/14/13,Kg,40,45,42.5
+1452,Spinach Leaf,7/14/13,Kg,40,45,42.5
+1453,Cress Leaf,7/14/13,Kg,40,45,42.5
+1454,Mustard Leaf,7/14/13,Kg,30,35,32.5
+1455,Fenugreek Leaf,7/14/13,Kg,40,45,42.5
+1456,Onion Green,7/14/13,Kg,40,45,42.5
+1457,Mushroom(Kanya),7/14/13,Kg,190,200,195
+1458,Asparagus,7/14/13,Kg,120,130,125
+1459,Neuro,7/14/13,Kg,50,60,55
+1460,Sugarbeet,7/14/13,Kg,55,60,57.5
+1461,Red Cabbbage,7/14/13,Kg,60,70,65
+1462,Lettuce,7/14/13,Kg,45,50,47.5
+1463,Celery,7/14/13,Kg,120,130,125
+1464,Parseley,7/14/13,Kg,170,180,175
+1465,Fennel Leaf,7/14/13,Kg,45,50,47.5
+1466,Mint,7/14/13,Kg,120,130,125
+1467,Turnip A,7/14/13,Kg,45,50,47.5
+1468,Maize,7/14/13,1 Pc,6,7,6.5
+1469,Tamarind,7/14/13,Kg,70,80,75
+1470,Bamboo Shoot,7/14/13,Kg,55,60,57.5
+1471,Tofu,7/14/13,Kg,55,60,57.5
+1472,Gundruk,7/14/13,Kg,170,180,175
+1473,Apple(Jholey),7/14/13,Kg,100,110,105
+1474,Banana,7/14/13,Doz,40,50,45
+1475,Lime,7/14/13,Kg,300,400,350
+1476,Pomegranate,7/14/13,Kg,200,210,205
+1477,Mango(Maldah),7/14/13,Kg,60,70,65
+1478,Grapes(Green),7/14/13,Kg,250,260,255
+1479,Water Melon(Green),7/14/13,Kg,40,45,42.5
+1480,Sweet Orange,7/14/13,Kg,90,100,95
+1481,Pineapple,7/14/13,1 Pc,70,80,75
+1482,Cucumber(Local),7/14/13,Kg,30,35,32.5
+1483,Jack Fruit,7/14/13,Kg,14,16,15
+1484,Papaya(Nepali),7/14/13,Kg,45,50,47.5
+1485,Sugarcane,7/14/13,1 Pc,50,60,55
+1486,Ginger,7/14/13,Kg,160,170,165
+1487,Chilli Dry,7/14/13,Kg,170,180,175
+1488,Chilli Green,7/14/13,Kg,35,40,37.5
+1489,Capsicum,7/14/13,Kg,110,120,115
+1490,Garlic Green,7/14/13,Kg,45,50,47.5
+1491,Coriander Green,7/14/13,Kg,70,80,75
+1492,Garlic Dry Chinese,7/14/13,Kg,85,95,90
+1493,Garlic Dry Nepali,7/14/13,Kg,60,70,65
+1494,Clive Green,7/14/13,Kg,50,60,55
+1495,Fish Fresh,7/14/13,Kg,210,220,215
+1496,Tomato Big(Nepali),7/15/13,Kg,75,80,77.5
+1497,Tomato Small(Local),7/15/13,Kg,50,55,52.5
+1498,Potato Red,7/15/13,Kg,23,24,23.5
+1499,Potato White,7/15/13,Kg,19,20,19.5
+1500,Onion Dry (Indian),7/15/13,Kg,44,46,45
+1501,Carrot(Local),7/15/13,Kg,35,40,37.5
+1502,Cabbage(Local),7/15/13,Kg,14,16,15
+1503,Cauli Local,7/15/13,Kg,55,65,60
+1504,Raddish White(Local),7/15/13,Kg,20,25,22.5
+1505,Brinjal Long,7/15/13,Kg,35,40,37.5
+1506,Cow pea(Long),7/15/13,Kg,40,50,45
+1507,French Bean(Local),7/15/13,Kg,35,40,37.5
+1508,Soyabean Green,7/15/13,Kg,55,60,57.5
+1509,Bitter Gourd,7/15/13,Kg,35,40,37.5
+1510,Bottle Gourd,7/15/13,Kg,30,35,32.5
+1511,Pointed Gourd(Local),7/15/13,Kg,40,45,42.5
+1512,Snake Gourd,7/15/13,Kg,30,35,32.5
+1513,Smooth Gourd,7/15/13,Kg,30,35,32.5
+1514,Sponge Gourd,7/15/13,Kg,30,35,32.5
+1515,Pumpkin,7/15/13,Kg,18,20,19
+1516,Squash(Long),7/15/13,Kg,35,40,37.5
+1517,Okara,7/15/13,Kg,30,35,32.5
+1518,Arum,7/15/13,Kg,30,35,32.5
+1519,Christophine,7/15/13,Kg,40,45,42.5
+1520,Brd Leaf Mustard,7/15/13,Kg,35,40,37.5
+1521,Spinach Leaf,7/15/13,Kg,35,40,37.5
+1522,Cress Leaf,7/15/13,Kg,30,35,32.5
+1523,Mustard Leaf,7/15/13,Kg,30,35,32.5
+1524,Fenugreek Leaf,7/15/13,Kg,35,40,37.5
+1525,Onion Green,7/15/13,Kg,35,40,37.5
+1526,Mushroom(Kanya),7/15/13,Kg,200,220,210
+1527,Asparagus,7/15/13,Kg,120,140,130
+1528,Neuro,7/15/13,Kg,50,60,55
+1529,Sugarbeet,7/15/13,Kg,55,60,57.5
+1530,Red Cabbbage,7/15/13,Kg,60,70,65
+1531,Lettuce,7/15/13,Kg,45,50,47.5
+1532,Celery,7/15/13,Kg,120,130,125
+1533,Parseley,7/15/13,Kg,160,170,165
+1534,Fennel Leaf,7/15/13,Kg,45,50,47.5
+1535,Mint,7/15/13,Kg,120,130,125
+1536,Maize,7/15/13,1 Pc,7,8,7.5
+1537,Tamarind,7/15/13,Kg,60,70,65
+1538,Bamboo Shoot,7/15/13,Kg,60,70,65
+1539,Tofu,7/15/13,Kg,55,60,57.5
+1540,Gundruk,7/15/13,Kg,170,180,175
+1541,Apple(Jholey),7/15/13,Kg,100,110,105
+1542,Banana,7/15/13,Doz,40,50,45
+1543,Lime,7/15/13,Kg,300,400,350
+1544,Pomegranate,7/15/13,Kg,200,210,205
+1545,Mango(Maldah),7/15/13,Kg,60,70,65
+1546,Grapes(Green),7/15/13,Kg,250,260,255
+1547,Water Melon(Green),7/15/13,Kg,40,45,42.5
+1548,Sweet Orange,7/15/13,Kg,90,100,95
+1549,Pineapple,7/15/13,1 Pc,60,70,65
+1550,Cucumber(Local),7/15/13,Kg,30,35,32.5
+1551,Jack Fruit,7/15/13,Kg,15,16,15.5
+1552,Papaya(Nepali),7/15/13,Kg,50,55,52.5
+1553,Sugarcane,7/15/13,1 Pc,50,60,55
+1554,Ginger,7/15/13,Kg,160,170,165
+1555,Chilli Dry,7/15/13,Kg,170,180,175
+1556,Chilli Green,7/15/13,Kg,30,40,35
+1557,Capsicum,7/15/13,Kg,100,110,105
+1558,Garlic Green,7/15/13,Kg,45,50,47.5
+1559,Coriander Green,7/15/13,Kg,70,80,75
+1560,Garlic Dry Chinese,7/15/13,Kg,85,90,87.5
+1561,Garlic Dry Nepali,7/15/13,Kg,60,70,65
+1562,Clive Green,7/15/13,Kg,50,60,55
+1563,Fish Fresh,7/15/13,Kg,210,220,215
+1564,Tomato Big(Nepali),7/16/13,Kg,80,90,85
+1565,Tomato Small(Local),7/16/13,Kg,48,52,50
+1566,Potato Red,7/16/13,Kg,23,24,23.5
+1567,Potato White,7/16/13,Kg,19,20,19.5
+1568,Onion Dry (Indian),7/16/13,Kg,46,48,47
+1569,Carrot(Local),7/16/13,Kg,45,50,47.5
+1570,Cabbage(Local),7/16/13,Kg,14,16,15
+1571,Cauli Local,7/16/13,Kg,60,70,65
+1572,Raddish White(Local),7/16/13,Kg,20,25,22.5
+1573,Brinjal Long,7/16/13,Kg,30,35,32.5
+1574,Brinjal Round,7/16/13,Kg,40,45,42.5
+1575,Cow pea(Long),7/16/13,Kg,40,50,45
+1576,French Bean(Local),7/16/13,Kg,40,45,42.5
+1577,Soyabean Green,7/16/13,Kg,55,60,57.5
+1578,Bitter Gourd,7/16/13,Kg,40,45,42.5
+1579,Bottle Gourd,7/16/13,Kg,25,30,27.5
+1580,Pointed Gourd(Local),7/16/13,Kg,40,45,42.5
+1581,Snake Gourd,7/16/13,Kg,30,35,32.5
+1582,Smooth Gourd,7/16/13,Kg,25,35,30
+1583,Sponge Gourd,7/16/13,Kg,30,35,32.5
+1584,Pumpkin,7/16/13,Kg,18,20,19
+1585,Squash(Long),7/16/13,Kg,45,50,47.5
+1586,Okara,7/16/13,Kg,35,40,37.5
+1587,Arum,7/16/13,Kg,35,40,37.5
+1588,Christophine,7/16/13,Kg,40,45,42.5
+1589,Brd Leaf Mustard,7/16/13,Kg,35,40,37.5
+1590,Spinach Leaf,7/16/13,Kg,35,40,37.5
+1591,Cress Leaf,7/16/13,Kg,35,40,37.5
+1592,Mustard Leaf,7/16/13,Kg,25,30,27.5
+1593,Fenugreek Leaf,7/16/13,Kg,30,35,32.5
+1594,Onion Green,7/16/13,Kg,35,40,37.5
+1595,Mushroom(Kanya),7/16/13,Kg,230,250,240
+1596,Asparagus,7/16/13,Kg,120,140,130
+1597,Neuro,7/16/13,Kg,50,60,55
+1598,Sugarbeet,7/16/13,Kg,55,60,57.5
+1599,Red Cabbbage,7/16/13,Kg,60,70,65
+1600,Lettuce,7/16/13,Kg,45,50,47.5
+1601,Celery,7/16/13,Kg,120,130,125
+1602,Parseley,7/16/13,Kg,170,180,175
+1603,Fennel Leaf,7/16/13,Kg,45,50,47.5
+1604,Mint,7/16/13,Kg,120,130,125
+1605,Maize,7/16/13,1 Pc,6,7,6.5
+1606,Tamarind,7/16/13,Kg,70,80,75
+1607,Bamboo Shoot,7/16/13,Kg,60,70,65
+1608,Tofu,7/16/13,Kg,60,70,65
+1609,Gundruk,7/16/13,Kg,170,180,175
+1610,Apple(Jholey),7/16/13,Kg,100,110,105
+1611,Banana,7/16/13,Doz,50,60,55
+1612,Lime,7/16/13,Kg,300,400,350
+1613,Pomegranate,7/16/13,Kg,200,210,205
+1614,Mango(Maldah),7/16/13,Kg,70,660,365
+1615,Grapes(Green),7/16/13,Kg,250,300,275
+1616,Water Melon(Green),7/16/13,Kg,45,50,47.5
+1617,Sweet Orange,7/16/13,Kg,90,95,92.5
+1618,Pineapple,7/16/13,1 Pc,60,70,65
+1619,Cucumber(Local),7/16/13,Kg,30,35,32.5
+1620,Jack Fruit,7/16/13,Kg,15,20,17.5
+1621,Papaya(Nepali),7/16/13,Kg,50,55,52.5
+1622,Sugarcane,7/16/13,1 Pc,50,60,55
+1623,Ginger,7/16/13,Kg,150,160,155
+1624,Chilli Dry,7/16/13,Kg,170,180,175
+1625,Chilli Green,7/16/13,Kg,30,35,32.5
+1626,Capsicum,7/16/13,Kg,90,100,95
+1627,Garlic Green,7/16/13,Kg,35,40,37.5
+1628,Coriander Green,7/16/13,Kg,80,90,85
+1629,Garlic Dry Chinese,7/16/13,Kg,85,90,87.5
+1630,Garlic Dry Nepali,7/16/13,Kg,60,70,65
+1631,Clive Green,7/16/13,Kg,50,60,55
+1632,Fish Fresh,7/16/13,Kg,210,220,215
+1633,Tomato Big(Nepali),7/17/13,Kg,80,90,85
+1634,Tomato Small(Local),7/17/13,Kg,46,52,49
+1635,Potato Red,7/17/13,Kg,23,24,23.5
+1636,Potato White,7/17/13,Kg,18,19,18.5
+1637,Onion Dry (Indian),7/17/13,Kg,48,50,49
+1638,Carrot(Local),7/17/13,Kg,45,50,47.5
+1639,Cabbage(Local),7/17/13,Kg,14,16,15
+1640,Cauli Local,7/17/13,Kg,50,60,55
+1641,Raddish White(Local),7/17/13,Kg,20,25,22.5
+1642,Brinjal Long,7/17/13,Kg,40,45,42.5
+1643,Brinjal Round,7/17/13,Kg,45,50,47.5
+1644,Cow pea(Long),7/17/13,Kg,40,50,45
+1645,French Bean(Local),7/17/13,Kg,40,45,42.5
+1646,Soyabean Green,7/17/13,Kg,55,60,57.5
+1647,Bitter Gourd,7/17/13,Kg,40,45,42.5
+1648,Bottle Gourd,7/17/13,Kg,20,30,25
+1649,Pointed Gourd(Local),7/17/13,Kg,40,45,42.5
+1650,Snake Gourd,7/17/13,Kg,28,32,30
+1651,Smooth Gourd,7/17/13,Kg,25,30,27.5
+1652,Sponge Gourd,7/17/13,Kg,30,35,32.5
+1653,Pumpkin,7/17/13,Kg,18,20,19
+1654,Squash(Long),7/17/13,Kg,40,45,42.5
+1655,Okara,7/17/13,Kg,30,35,32.5
+1656,Arum,7/17/13,Kg,35,40,37.5
+1657,Christophine,7/17/13,Kg,40,45,42.5
+1658,Brd Leaf Mustard,7/17/13,Kg,35,40,37.5
+1659,Spinach Leaf,7/17/13,Kg,35,40,37.5
+1660,Cress Leaf,7/17/13,Kg,35,40,37.5
+1661,Mustard Leaf,7/17/13,Kg,25,30,27.5
+1662,Fenugreek Leaf,7/17/13,Kg,35,40,37.5
+1663,Onion Green,7/17/13,Kg,30,35,32.5
+1664,Mushroom(Kanya),7/17/13,Kg,200,220,210
+1665,Asparagus,7/17/13,Kg,120,140,130
+1666,Neuro,7/17/13,Kg,50,60,55
+1667,Sugarbeet,7/17/13,Kg,55,60,57.5
+1668,Red Cabbbage,7/17/13,Kg,70,80,75
+1669,Lettuce,7/17/13,Kg,55,60,57.5
+1670,Celery,7/17/13,Kg,120,130,125
+1671,Parseley,7/17/13,Kg,170,180,175
+1672,Fennel Leaf,7/17/13,Kg,50,55,52.5
+1673,Mint,7/17/13,Kg,120,130,125
+1674,Turnip A,7/17/13,Kg,45,50,47.5
+1675,Maize,7/17/13,1 Pc,6,7,6.5
+1676,Tamarind,7/17/13,Kg,70,80,75
+1677,Bamboo Shoot,7/17/13,Kg,60,70,65
+1678,Tofu,7/17/13,Kg,60,70,65
+1679,Gundruk,7/17/13,Kg,170,180,175
+1680,Apple(Jholey),7/17/13,Kg,50,60,55
+1681,Banana,7/17/13,Doz,50,60,55
+1682,Lime,7/17/13,Kg,300,400,350
+1683,Pomegranate,7/17/13,Kg,200,210,205
+1684,Mango(Maldah),7/17/13,Kg,70,80,75
+1685,Grapes(Green),7/17/13,Kg,250,260,255
+1686,Water Melon(Green),7/17/13,Kg,45,50,47.5
+1687,Sweet Orange,7/17/13,Kg,85,90,87.5
+1688,Pineapple,7/17/13,1 Pc,60,70,65
+1689,Cucumber(Local),7/17/13,Kg,30,35,32.5
+1690,Jack Fruit,7/17/13,Kg,18,20,19
+1691,Papaya(Nepali),7/17/13,Kg,60,70,65
+1692,Sugarcane,7/17/13,1 Pc,50,60,55
+1693,Ginger,7/17/13,Kg,170,180,175
+1694,Chilli Dry,7/17/13,Kg,170,180,175
+1695,Chilli Green,7/17/13,Kg,30,40,35
+1696,Capsicum,7/17/13,Kg,80,90,85
+1697,Garlic Green,7/17/13,Kg,40,45,42.5
+1698,Coriander Green,7/17/13,Kg,90,100,95
+1699,Garlic Dry Chinese,7/17/13,Kg,85,90,87.5
+1700,Garlic Dry Nepali,7/17/13,Kg,50,60,55
+1701,Clive Dry,7/17/13,Kg,75,85,80
+1702,Clive Green,7/17/13,Kg,50,60,55
+1703,Fish Fresh,7/17/13,Kg,210,220,215
+1704,Tomato Big(Nepali),7/18/13,Kg,65,70,67.5
+1705,Tomato Small(Local),7/18/13,Kg,40,45,42.5
+1706,Potato Red,7/18/13,Kg,23,24,23.5
+1707,Potato White,7/18/13,Kg,19,20,19.5
+1708,Onion Dry (Indian),7/18/13,Kg,52,55,53.5
+1709,Carrot(Local),7/18/13,Kg,45,50,47.5
+1710,Cabbage(Local),7/18/13,Kg,14,18,16
+1711,Cauli Local,7/18/13,Kg,40,50,45
+1712,Raddish White(Local),7/18/13,Kg,20,25,22.5
+1713,Brinjal Long,7/18/13,Kg,28,32,30
+1714,Brinjal Round,7/18/13,Kg,40,45,42.5
+1715,Cow pea(Long),7/18/13,Kg,40,50,45
+1716,French Bean(Local),7/18/13,Kg,40,45,42.5
+1717,Soyabean Green,7/18/13,Kg,55,60,57.5
+1718,Bitter Gourd,7/18/13,Kg,25,30,27.5
+1719,Bottle Gourd,7/18/13,Kg,20,25,22.5
+1720,Pointed Gourd(Local),7/18/13,Kg,40,45,42.5
+1721,Snake Gourd,7/18/13,Kg,30,35,32.5
+1722,Smooth Gourd,7/18/13,Kg,20,25,22.5
+1723,Sponge Gourd,7/18/13,Kg,30,35,32.5
+1724,Pumpkin,7/18/13,Kg,18,20,19
+1725,Squash(Long),7/18/13,Kg,35,40,37.5
+1726,Okara,7/18/13,Kg,24,28,26
+1727,Arum,7/18/13,Kg,30,35,32.5
+1728,Christophine,7/18/13,Kg,40,45,42.5
+1729,Brd Leaf Mustard,7/18/13,Kg,30,35,32.5
+1730,Spinach Leaf,7/18/13,Kg,35,40,37.5
+1731,Cress Leaf,7/18/13,Kg,35,40,37.5
+1732,Mustard Leaf,7/18/13,Kg,25,30,27.5
+1733,Fenugreek Leaf,7/18/13,Kg,30,35,32.5
+1734,Onion Green,7/18/13,Kg,30,35,32.5
+1735,Mushroom(Kanya),7/18/13,Kg,200,220,210
+1736,Asparagus,7/18/13,Kg,120,140,130
+1737,Neuro,7/18/13,Kg,50,60,55
+1738,Sugarbeet,7/18/13,Kg,55,60,57.5
+1739,Red Cabbbage,7/18/13,Kg,60,70,65
+1740,Lettuce,7/18/13,Kg,50,55,52.5
+1741,Celery,7/18/13,Kg,120,130,125
+1742,Parseley,7/18/13,Kg,170,180,175
+1743,Fennel Leaf,7/18/13,Kg,30,35,32.5
+1744,Mint,7/18/13,Kg,120,130,125
+1745,Turnip A,7/18/13,Kg,40,45,42.5
+1746,Maize,7/18/13,1 Pc,6,7,6.5
+1747,Tamarind,7/18/13,Kg,70,80,75
+1748,Bamboo Shoot,7/18/13,Kg,60,70,65
+1749,Tofu,7/18/13,Kg,60,70,65
+1750,Gundruk,7/18/13,Kg,170,180,175
+1751,Apple(Jholey),7/18/13,Kg,130,140,135
+1752,Banana,7/18/13,Doz,50,60,55
+1753,Lime,7/18/13,Kg,300,400,350
+1754,Pomegranate,7/18/13,Kg,200,210,205
+1755,Mango(Maldah),7/18/13,Kg,70,80,75
+1756,Grapes(Green),7/18/13,Kg,250,260,255
+1757,Water Melon(Green),7/18/13,Kg,45,50,47.5
+1758,Sweet Orange,7/18/13,Kg,85,95,90
+1759,Pineapple,7/18/13,1 Pc,60,70,65
+1760,Cucumber(Local),7/18/13,Kg,35,40,37.5
+1761,Jack Fruit,7/18/13,Kg,15,20,17.5
+1762,Papaya(Nepali),7/18/13,Kg,70,80,75
+1763,Sugarcane,7/18/13,1 Pc,50,60,55
+1764,Ginger,7/18/13,Kg,160,170,165
+1765,Chilli Dry,7/18/13,Kg,170,180,175
+1766,Chilli Green,7/18/13,Kg,35,40,37.5
+1767,Capsicum,7/18/13,Kg,70,80,75
+1768,Garlic Green,7/18/13,Kg,35,40,37.5
+1769,Coriander Green,7/18/13,Kg,70,80,75
+1770,Garlic Dry Chinese,7/18/13,Kg,85,90,87.5
+1771,Garlic Dry Nepali,7/18/13,Kg,60,70,65
+1772,Clive Dry,7/18/13,Kg,70,80,75
+1773,Clive Green,7/18/13,Kg,50,60,55
+1774,Fish Fresh,7/18/13,Kg,210,220,215
+1775,Tomato Big(Nepali),7/19/13,Kg,55,60,57.5
+1776,Tomato Small(Local),7/19/13,Kg,36,40,38
+1777,Potato Red,7/19/13,Kg,23,24,23.5
+1778,Potato White,7/19/13,Kg,18,19,18.5
+1779,Onion Dry (Indian),7/19/13,Kg,50,53,51.5
+1780,Carrot(Local),7/19/13,Kg,35,40,37.5
+1781,Cabbage(Local),7/19/13,Kg,14,18,16
+1782,Cauli Local,7/19/13,Kg,50,60,55
+1783,Raddish White(Local),7/19/13,Kg,20,25,22.5
+1784,Brinjal Long,7/19/13,Kg,25,30,27.5
+1785,Brinjal Round,7/19/13,Kg,35,40,37.5
+1786,Cow pea(Long),7/19/13,Kg,35,40,37.5
+1787,French Bean(Local),7/19/13,Kg,30,35,32.5
+1788,Soyabean Green,7/19/13,Kg,60,65,62.5
+1789,Bitter Gourd,7/19/13,Kg,20,26,23
+1790,Bottle Gourd,7/19/13,Kg,20,25,22.5
+1791,Pointed Gourd(Local),7/19/13,Kg,40,45,42.5
+1792,Snake Gourd,7/19/13,Kg,28,32,30
+1793,Smooth Gourd,7/19/13,Kg,25,30,27.5
+1794,Sponge Gourd,7/19/13,Kg,35,40,37.5
+1795,Pumpkin,7/19/13,Kg,25,30,27.5
+1796,Squash(Long),7/19/13,Kg,35,40,37.5
+1797,Okara,7/19/13,Kg,18,22,20
+1798,Arum,7/19/13,Kg,30,35,32.5
+1799,Christophine,7/19/13,Kg,35,40,37.5
+1800,Brd Leaf Mustard,7/19/13,Kg,30,35,32.5
+1801,Spinach Leaf,7/19/13,Kg,30,35,32.5
+1802,Cress Leaf,7/19/13,Kg,30,35,32.5
+1803,Mustard Leaf,7/19/13,Kg,25,30,27.5
+1804,Fenugreek Leaf,7/19/13,Kg,30,35,32.5
+1805,Onion Green,7/19/13,Kg,35,40,37.5
+1806,Mushroom(Kanya),7/19/13,Kg,180,200,190
+1807,Neuro,7/19/13,Kg,50,60,55
+1808,Sugarbeet,7/19/13,Kg,55,60,57.5
+1809,Red Cabbbage,7/19/13,Kg,60,70,65
+1810,Lettuce,7/19/13,Kg,55,60,57.5
+1811,Celery,7/19/13,Kg,120,130,125
+1812,Parseley,7/19/13,Kg,170,180,175
+1813,Fennel Leaf,7/19/13,Kg,35,40,37.5
+1814,Mint,7/19/13,Kg,120,130,125
+1815,Turnip A,7/19/13,Kg,50,55,52.5
+1816,Maize,7/19/13,1 Pc,6,7,6.5
+1817,Tamarind,7/19/13,Kg,70,80,75
+1818,Bamboo Shoot,7/19/13,Kg,60,70,65
+1819,Tofu,7/19/13,Kg,60,70,65
+1820,Gundruk,7/19/13,Kg,170,180,175
+1821,Apple(Jholey),7/19/13,Kg,130,140,135
+1822,Banana,7/19/13,Doz,50,60,55
+1823,Lime,7/19/13,Kg,300,400,350
+1824,Pomegranate,7/19/13,Kg,190,200,195
+1825,Mango(Maldah),7/19/13,Kg,60,70,65
+1826,Grapes(Green),7/19/13,Kg,250,300,275
+1827,Water Melon(Green),7/19/13,Kg,45,50,47.5
+1828,Sweet Orange,7/19/13,Kg,85,90,87.5
+1829,Pineapple,7/19/13,1 Pc,70,80,75
+1830,Cucumber(Local),7/19/13,Kg,25,30,27.5
+1831,Jack Fruit,7/19/13,Kg,15,18,16.5
+1832,Papaya(Nepali),7/19/13,Kg,70,80,75
+1833,Sugarcane,7/19/13,1 Pc,50,60,55
+1834,Ginger,7/19/13,Kg,160,170,165
+1835,Chilli Dry,7/19/13,Kg,170,180,175
+1836,Chilli Green,7/19/13,Kg,35,40,37.5
+1837,Capsicum,7/19/13,Kg,65,70,67.5
+1838,Garlic Green,7/19/13,Kg,35,40,37.5
+1839,Coriander Green,7/19/13,Kg,70,80,75
+1840,Garlic Dry Chinese,7/19/13,Kg,85,90,87.5
+1841,Garlic Dry Nepali,7/19/13,Kg,50,60,55
+1842,Clive Dry,7/19/13,Kg,70,80,75
+1843,Clive Green,7/19/13,Kg,50,60,55
+1844,Fish Fresh,7/19/13,Kg,210,220,215
+1845,Tomato Big(Nepali),7/21/13,Kg,50,55,52.5
+1846,Tomato Small(Local),7/21/13,Kg,28,32,30
+1847,Potato Red,7/21/13,Kg,24,25,24.5
+1848,Potato White,7/21/13,Kg,19,20,19.5
+1849,Onion Dry (Indian),7/21/13,Kg,50,53,51.5
+1850,Carrot(Local),7/21/13,Kg,50,53,51.5
+1851,Cabbage(Local),7/21/13,Kg,16,18,17
+1852,Cauli Local,7/21/13,Kg,50,60,55
+1853,Raddish White(Local),7/21/13,Kg,20,25,22.5
+1854,Brinjal Long,7/21/13,Kg,20,25,22.5
+1855,Brinjal Round,7/21/13,Kg,35,40,37.5
+1856,Cow pea(Long),7/21/13,Kg,35,40,37.5
+1857,French Bean(Local),7/21/13,Kg,35,40,37.5
+1858,Soyabean Green,7/21/13,Kg,55,60,57.5
+1859,Bitter Gourd,7/21/13,Kg,18,22,20
+1860,Bottle Gourd,7/21/13,Kg,18,22,20
+1861,Pointed Gourd(Local),7/21/13,Kg,35,40,37.5
+1862,Snake Gourd,7/21/13,Kg,28,30,29
+1863,Smooth Gourd,7/21/13,Kg,25,30,27.5
+1864,Sponge Gourd,7/21/13,Kg,28,32,30
+1865,Pumpkin,7/21/13,Kg,18,20,19
+1866,Squash(Long),7/21/13,Kg,30,35,32.5
+1867,Okara,7/21/13,Kg,18,20,19
+1868,Arum,7/21/13,Kg,30,35,32.5
+1869,Christophine,7/21/13,Kg,40,45,42.5
+1870,Brd Leaf Mustard,7/21/13,Kg,35,40,37.5
+1871,Spinach Leaf,7/21/13,Kg,35,40,37.5
+1872,Cress Leaf,7/21/13,Kg,35,40,37.5
+1873,Mustard Leaf,7/21/13,Kg,30,35,32.5
+1874,Fenugreek Leaf,7/21/13,Kg,35,40,37.5
+1875,Onion Green,7/21/13,Kg,35,40,37.5
+1876,Mushroom(Kanya),7/21/13,Kg,180,200,190
+1877,Asparagus,7/21/13,Kg,120,140,130
+1878,Neuro,7/21/13,Kg,50,60,55
+1879,Sugarbeet,7/21/13,Kg,55,60,57.5
+1880,Red Cabbbage,7/21/13,Kg,60,70,65
+1881,Lettuce,7/21/13,Kg,35,40,37.5
+1882,Celery,7/21/13,Kg,120,130,125
+1883,Parseley,7/21/13,Kg,170,180,175
+1884,Fennel Leaf,7/21/13,Kg,35,40,37.5
+1885,Mint,7/21/13,Kg,120,130,125
+1886,Turnip A,7/21/13,Kg,40,45,42.5
+1887,Maize,7/21/13,1 Pc,6,7,6.5
+1888,Tamarind,7/21/13,Kg,70,80,75
+1889,Bamboo Shoot,7/21/13,Kg,60,70,65
+1890,Tofu,7/21/13,Kg,60,70,65
+1891,Gundruk,7/21/13,Kg,170,180,175
+1892,Apple(Jholey),7/21/13,Kg,110,120,115
+1893,Banana,7/21/13,Doz,50,60,55
+1894,Lime,7/21/13,Kg,300,400,350
+1895,Pomegranate,7/21/13,Kg,200,220,210
+1896,Mango(Maldah),7/21/13,Kg,50,60,55
+1897,Grapes(Green),7/21/13,Kg,250,300,275
+1898,Water Melon(Green),7/21/13,Kg,50,55,52.5
+1899,Sweet Orange,7/21/13,Kg,80,90,85
+1900,Pineapple,7/21/13,1 Pc,60,70,65
+1901,Cucumber(Local),7/21/13,Kg,25,30,27.5
+1902,Jack Fruit,7/21/13,Kg,15,18,16.5
+1903,Papaya(Nepali),7/21/13,Kg,65,70,67.5
+1904,Sugarcane,7/21/13,1 Pc,50,60,55
+1905,Ginger,7/21/13,Kg,170,180,175
+1906,Chilli Dry,7/21/13,Kg,170,180,175
+1907,Chilli Green,7/21/13,Kg,35,40,37.5
+1908,Capsicum,7/21/13,Kg,50,60,55
+1909,Garlic Green,7/21/13,Kg,35,40,37.5
+1910,Coriander Green,7/21/13,Kg,60,70,65
+1911,Garlic Dry Chinese,7/21/13,Kg,85,90,87.5
+1912,Garlic Dry Nepali,7/21/13,Kg,60,70,65
+1913,Clive Dry,7/21/13,Kg,70,80,75
+1914,Clive Green,7/21/13,Kg,50,60,55
+1915,Fish Fresh,7/21/13,Kg,210,220,215
+1916,Tomato Big(Nepali),7/22/13,Kg,55,60,57.5
+1917,Tomato Small(Local),7/22/13,Kg,28,32,30
+1918,Potato Red,7/22/13,Kg,23,24,23.5
+1919,Potato White,7/22/13,Kg,19,20,19.5
+1920,Onion Dry (Indian),7/22/13,Kg,50,52,51
+1921,Carrot(Local),7/22/13,Kg,45,50,47.5
+1922,Cabbage(Local),7/22/13,Kg,14,18,16
+1923,Cauli Local,7/22/13,Kg,55,60,57.5
+1924,Raddish White(Local),7/22/13,Kg,20,25,22.5
+1925,Brinjal Long,7/22/13,Kg,20,25,22.5
+1926,Brinjal Round,7/22/13,Kg,35,40,37.5
+1927,Cow pea(Long),7/22/13,Kg,35,40,37.5
+1928,Green Peas,7/22/13,Kg,130,140,135
+1929,French Bean(Local),7/22/13,Kg,30,35,32.5
+1930,Soyabean Green,7/22/13,Kg,50,60,55
+1931,Bitter Gourd,7/22/13,Kg,18,20,19
+1932,Bottle Gourd,7/22/13,Kg,18,20,19
+1933,Pointed Gourd(Local),7/22/13,Kg,35,40,37.5
+1934,Snake Gourd,7/22/13,Kg,28,30,29
+1935,Smooth Gourd,7/22/13,Kg,20,25,22.5
+1936,Sponge Gourd,7/22/13,Kg,20,25,22.5
+1937,Pumpkin,7/22/13,Kg,18,20,19
+1938,Squash(Long),7/22/13,Kg,28,30,29
+1939,Okara,7/22/13,Kg,18,20,19
+1940,Arum,7/22/13,Kg,28,32,30
+1941,Christophine,7/22/13,Kg,35,40,37.5
+1942,Brd Leaf Mustard,7/22/13,Kg,35,40,37.5
+1943,Spinach Leaf,7/22/13,Kg,35,40,37.5
+1944,Cress Leaf,7/22/13,Kg,35,40,37.5
+1945,Mustard Leaf,7/22/13,Kg,30,35,32.5
+1946,Fenugreek Leaf,7/22/13,Kg,35,40,37.5
+1947,Onion Green,7/22/13,Kg,35,40,37.5
+1948,Mushroom(Kanya),7/22/13,Kg,150,180,165
+1949,Asparagus,7/22/13,Kg,120,140,130
+1950,Neuro,7/22/13,Kg,50,60,55
+1951,Sugarbeet,7/22/13,Kg,55,60,57.5
+1952,Red Cabbbage,7/22/13,Kg,60,70,65
+1953,Lettuce,7/22/13,Kg,45,50,47.5
+1954,Celery,7/22/13,Kg,120,130,125
+1955,Parseley,7/22/13,Kg,170,180,175
+1956,Fennel Leaf,7/22/13,Kg,45,50,47.5
+1957,Mint,7/22/13,Kg,120,130,125
+1958,Turnip A,7/22/13,Kg,45,50,47.5
+1959,Maize,7/22/13,1 Pc,6,7,6.5
+1960,Tamarind,7/22/13,Kg,70,80,75
+1961,Bamboo Shoot,7/22/13,Kg,60,70,65
+1962,Tofu,7/22/13,Kg,60,70,65
+1963,Gundruk,7/22/13,Kg,170,180,175
+1964,Apple(Jholey),7/22/13,Kg,120,130,125
+1965,Banana,7/22/13,Doz,50,60,55
+1966,Lime,7/22/13,Kg,300,400,350
+1967,Pomegranate,7/22/13,Kg,200,210,205
+1968,Mango(Maldah),7/22/13,Kg,60,70,65
+1969,Grapes(Green),7/22/13,Kg,250,300,275
+1970,Water Melon(Green),7/22/13,Kg,45,50,47.5
+1971,Sweet Orange,7/22/13,Kg,80,90,85
+1972,Pineapple,7/22/13,1 Pc,60,70,65
+1973,Cucumber(Local),7/22/13,Kg,25,30,27.5
+1974,Jack Fruit,7/22/13,Kg,15,18,16.5
+1975,Papaya(Nepali),7/22/13,Kg,60,65,62.5
+1976,Ginger,7/22/13,Kg,170,180,175
+1977,Chilli Dry,7/22/13,Kg,170,180,175
+1978,Chilli Green,7/22/13,Kg,35,40,37.5
+1979,Capsicum,7/22/13,Kg,50,60,55
+1980,Garlic Green,7/22/13,Kg,35,40,37.5
+1981,Coriander Green,7/22/13,Kg,70,80,75
+1982,Garlic Dry Chinese,7/22/13,Kg,85,90,87.5
+1983,Garlic Dry Nepali,7/22/13,Kg,60,70,65
+1984,Clive Dry,7/22/13,Kg,80,90,85
+1985,Clive Green,7/22/13,Kg,50,60,55
+1986,Fish Fresh,7/22/13,Kg,210,220,215
+1987,Tomato Big(Nepali),7/23/13,Kg,55,60,57.5
+1988,Tomato Small(Local),7/23/13,Kg,30,35,32.5
+1989,Potato Red,7/23/13,Kg,23,24,23.5
+1990,Potato White,7/23/13,Kg,18,19,18.5
+1991,Onion Dry (Indian),7/23/13,Kg,50,52,51
+1992,Carrot(Local),7/23/13,Kg,45,50,47.5
+1993,Cabbage(Local),7/23/13,Kg,18,20,19
+1994,Cauli Local,7/23/13,Kg,55,60,57.5
+1995,Raddish White(Local),7/23/13,Kg,18,22,20
+1996,Brinjal Long,7/23/13,Kg,25,30,27.5
+1997,Brinjal Round,7/23/13,Kg,30,35,32.5
+1998,Cow pea(Long),7/23/13,Kg,35,40,37.5
+1999,French Bean(Local),7/23/13,Kg,35,40,37.5
+2000,Soyabean Green,7/23/13,Kg,55,60,57.5
+2001,Bitter Gourd,7/23/13,Kg,18,20,19
+2002,Bottle Gourd,7/23/13,Kg,18,20,19
+2003,Pointed Gourd(Local),7/23/13,Kg,30,35,32.5
+2004,Snake Gourd,7/23/13,Kg,25,30,27.5
+2005,Smooth Gourd,7/23/13,Kg,20,25,22.5
+2006,Sponge Gourd,7/23/13,Kg,20,25,22.5
+2007,Pumpkin,7/23/13,Kg,18,20,19
+2008,Squash(Long),7/23/13,Kg,25,30,27.5
+2009,Okara,7/23/13,Kg,18,20,19
+2010,Arum,7/23/13,Kg,30,35,32.5
+2011,Christophine,7/23/13,Kg,30,35,32.5
+2012,Brd Leaf Mustard,7/23/13,Kg,35,40,37.5
+2013,Spinach Leaf,7/23/13,Kg,35,40,37.5
+2014,Cress Leaf,7/23/13,Kg,35,40,37.5
+2015,Mustard Leaf,7/23/13,Kg,30,35,32.5
+2016,Fenugreek Leaf,7/23/13,Kg,35,40,37.5
+2017,Onion Green,7/23/13,Kg,35,40,37.5
+2018,Mushroom(Kanya),7/23/13,Kg,150,160,155
+2019,Asparagus,7/23/13,Kg,120,150,135
+2020,Neuro,7/23/13,Kg,50,60,55
+2021,Sugarbeet,7/23/13,Kg,55,60,57.5
+2022,Red Cabbbage,7/23/13,Kg,60,70,65
+2023,Lettuce,7/23/13,Kg,45,50,47.5
+2024,Celery,7/23/13,Kg,120,130,125
+2025,Parseley,7/23/13,Kg,170,180,175
+2026,Fennel Leaf,7/23/13,Kg,45,50,47.5
+2027,Mint,7/23/13,Kg,120,130,125
+2028,Turnip A,7/23/13,Kg,45,50,47.5
+2029,Maize,7/23/13,1 Pc,7,8,7.5
+2030,Tamarind,7/23/13,Kg,70,80,75
+2031,Bamboo Shoot,7/23/13,Kg,60,70,65
+2032,Tofu,7/23/13,Kg,60,70,65
+2033,Gundruk,7/23/13,Kg,170,180,175
+2034,Apple(Jholey),7/23/13,Kg,100,110,105
+2035,Banana,7/23/13,Doz,50,60,55
+2036,Lime,7/23/13,Kg,300,400,350
+2037,Pomegranate,7/23/13,Kg,200,210,205
+2038,Mango(Maldah),7/23/13,Kg,60,70,65
+2039,Water Melon(Green),7/23/13,Kg,45,50,47.5
+2040,Sweet Orange,7/23/13,Kg,80,90,85
+2041,Pineapple,7/23/13,1 Pc,60,70,65
+2042,Cucumber(Local),7/23/13,Kg,25,30,27.5
+2043,Jack Fruit,7/23/13,Kg,15,18,16.5
+2044,Papaya(Nepali),7/23/13,Kg,60,65,62.5
+2045,Ginger,7/23/13,Kg,170,180,175
+2046,Chilli Dry,7/23/13,Kg,170,180,175
+2047,Chilli Green,7/23/13,Kg,40,45,42.5
+2048,Capsicum,7/23/13,Kg,55,60,57.5
+2049,Garlic Green,7/23/13,Kg,45,50,47.5
+2050,Coriander Green,7/23/13,Kg,70,80,75
+2051,Garlic Dry Chinese,7/23/13,Kg,85,90,87.5
+2052,Garlic Dry Nepali,7/23/13,Kg,50,60,55
+2053,Clive Dry,7/23/13,Kg,80,90,85
+2054,Clive Green,7/23/13,Kg,50,60,55
+2055,Fish Fresh,7/23/13,Kg,210,220,215
+2056,Tomato Big(Nepali),7/24/13,Kg,50,55,52.5
+2057,Tomato Small(Local),7/24/13,Kg,32,36,34
+2058,Potato Red,7/24/13,Kg,23,24,23.5
+2059,Potato White,7/24/13,Kg,18,19,18.5
+2060,Onion Dry (Indian),7/24/13,Kg,50,52,51
+2061,Carrot(Local),7/24/13,Kg,50,55,52.5
+2062,Cabbage(Local),7/24/13,Kg,16,20,18
+2063,Cauli Local,7/24/13,Kg,55,60,57.5
+2064,Raddish White(Local),7/24/13,Kg,20,25,22.5
+2065,Brinjal Long,7/24/13,Kg,25,30,27.5
+2066,Brinjal Round,7/24/13,Kg,35,40,37.5
+2067,Cow pea(Long),7/24/13,Kg,40,45,42.5
+2068,French Bean(Local),7/24/13,Kg,30,35,32.5
+2069,Soyabean Green,7/24/13,Kg,50,55,52.5
+2070,Bitter Gourd,7/24/13,Kg,18,20,19
+2071,Bottle Gourd,7/24/13,Kg,18,20,19
+2072,Pointed Gourd(Local),7/24/13,Kg,35,40,37.5
+2073,Snake Gourd,7/24/13,Kg,25,30,27.5
+2074,Smooth Gourd,7/24/13,Kg,25,30,27.5
+2075,Sponge Gourd,7/24/13,Kg,20,25,22.5
+2076,Pumpkin,7/24/13,Kg,18,20,19
+2077,Squash(Long),7/24/13,Kg,30,35,32.5
+2078,Okara,7/24/13,Kg,20,24,22
+2079,Arum,7/24/13,Kg,28,30,29
+2080,Christophine,7/24/13,Kg,30,35,32.5
+2081,Brd Leaf Mustard,7/24/13,Kg,35,40,37.5
+2082,Spinach Leaf,7/24/13,Kg,35,40,37.5
+2083,Cress Leaf,7/24/13,Kg,35,40,37.5
+2084,Mustard Leaf,7/24/13,Kg,30,35,32.5
+2085,Fenugreek Leaf,7/24/13,Kg,35,40,37.5
+2086,Onion Green,7/24/13,Kg,35,40,37.5
+2087,Mushroom(Kanya),7/24/13,Kg,150,170,160
+2088,Asparagus,7/24/13,Kg,120,150,135
+2089,Neuro,7/24/13,Kg,50,60,55
+2090,Sugarbeet,7/24/13,Kg,55,60,57.5
+2091,Red Cabbbage,7/24/13,Kg,60,70,65
+2092,Lettuce,7/24/13,Kg,45,50,47.5
+2093,Celery,7/24/13,Kg,120,130,125
+2094,Parseley,7/24/13,Kg,170,180,175
+2095,Fennel Leaf,7/24/13,Kg,45,50,47.5
+2096,Mint,7/24/13,Kg,120,130,125
+2097,Turnip A,7/24/13,Kg,50,55,52.5
+2098,Maize,7/24/13,1 Pc,6,7,6.5
+2099,Tamarind,7/24/13,Kg,70,80,75
+2100,Bamboo Shoot,7/24/13,Kg,60,70,65
+2101,Tofu,7/24/13,Kg,60,70,65
+2102,Gundruk,7/24/13,Kg,170,180,175
+2103,Apple(Jholey),7/24/13,Kg,100,110,105
+2104,Banana,7/24/13,Doz,50,60,55
+2105,Lime,7/24/13,Kg,300,400,350
+2106,Pomegranate,7/24/13,Kg,200,210,205
+2107,Mango(Maldah),7/24/13,Kg,50,60,55
+2108,Water Melon(Green),7/24/13,Kg,50,55,52.5
+2109,Sweet Orange,7/24/13,Kg,85,90,87.5
+2110,Pineapple,7/24/13,1 Pc,60,70,65
+2111,Cucumber(Local),7/24/13,Kg,25,30,27.5
+2112,Jack Fruit,7/24/13,Kg,15,18,16.5
+2113,Papaya(Nepali),7/24/13,Kg,60,65,62.5
+2114,Ginger,7/24/13,Kg,170,180,175
+2115,Chilli Dry,7/24/13,Kg,170,180,175
+2116,Chilli Green,7/24/13,Kg,40,45,42.5
+2117,Capsicum,7/24/13,Kg,55,60,57.5
+2118,Garlic Green,7/24/13,Kg,45,50,47.5
+2119,Coriander Green,7/24/13,Kg,60,80,70
+2120,Garlic Dry Chinese,7/24/13,Kg,85,90,87.5
+2121,Garlic Dry Nepali,7/24/13,Kg,60,70,65
+2122,Clive Dry,7/24/13,Kg,80,90,85
+2123,Clive Green,7/24/13,Kg,50,60,55
+2124,Fish Fresh,7/24/13,Kg,200,210,205
+2125,Tomato Big(Nepali),7/25/13,Kg,50,55,52.5
+2126,Tomato Small(Local),7/25/13,Kg,40,45,42.5
+2127,Potato Red,7/25/13,Kg,23,24,23.5
+2128,Potato White,7/25/13,Kg,18,19,18.5
+2129,Onion Dry (Indian),7/25/13,Kg,49,52,50.5
+2130,Carrot(Local),7/25/13,Kg,50,55,52.5
+2131,Cabbage(Local),7/25/13,Kg,16,20,18
+2132,Cauli Local,7/25/13,Kg,55,60,57.5
+2133,Raddish White(Local),7/25/13,Kg,18,22,20
+2134,Brinjal Long,7/25/13,Kg,25,30,27.5
+2135,Brinjal Round,7/25/13,Kg,30,35,32.5
+2136,Cow pea(Long),7/25/13,Kg,40,45,42.5
+2137,Green Peas,7/25/13,Kg,140,150,145
+2138,French Bean(Local),7/25/13,Kg,30,35,32.5
+2139,Soyabean Green,7/25/13,Kg,55,60,57.5
+2140,Bitter Gourd,7/25/13,Kg,20,24,22
+2141,Bottle Gourd,7/25/13,Kg,20,22,21
+2142,Pointed Gourd(Local),7/25/13,Kg,30,35,32.5
+2143,Snake Gourd,7/25/13,Kg,18,20,19
+2144,Smooth Gourd,7/25/13,Kg,25,30,27.5
+2145,Sponge Gourd,7/25/13,Kg,25,30,27.5
+2146,Pumpkin,7/25/13,Kg,18,20,19
+2147,Squash(Long),7/25/13,Kg,25,30,27.5
+2148,Okara,7/25/13,Kg,18,22,20
+2149,Arum,7/25/13,Kg,28,30,29
+2150,Christophine,7/25/13,Kg,30,35,32.5
+2151,Brd Leaf Mustard,7/25/13,Kg,35,40,37.5
+2152,Spinach Leaf,7/25/13,Kg,35,40,37.5
+2153,Cress Leaf,7/25/13,Kg,35,40,37.5
+2154,Mustard Leaf,7/25/13,Kg,25,30,27.5
+2155,Fenugreek Leaf,7/25/13,Kg,35,40,37.5
+2156,Onion Green,7/25/13,Kg,35,40,37.5
+2157,Mushroom(Kanya),7/25/13,Kg,160,180,170
+2158,Asparagus,7/25/13,Kg,120,150,135
+2159,Neuro,7/25/13,Kg,50,60,55
+2160,Sugarbeet,7/25/13,Kg,55,60,57.5
+2161,Red Cabbbage,7/25/13,Kg,60,70,65
+2162,Lettuce,7/25/13,Kg,45,50,47.5
+2163,Celery,7/25/13,Kg,120,130,125
+2164,Parseley,7/25/13,Kg,170,180,175
+2165,Fennel Leaf,7/25/13,Kg,45,50,47.5
+2166,Mint,7/25/13,Kg,120,130,125
+2167,Turnip A,7/25/13,Kg,45,50,47.5
+2168,Maize,7/25/13,1 Pc,7,8,7.5
+2169,Tamarind,7/25/13,Kg,70,80,75
+2170,Bamboo Shoot,7/25/13,Kg,60,70,65
+2171,Tofu,7/25/13,Kg,60,70,65
+2172,Gundruk,7/25/13,Kg,170,180,175
+2173,Apple(Jholey),7/25/13,Kg,100,110,105
+2174,Banana,7/25/13,Doz,50,60,55
+2175,Lime,7/25/13,Kg,300,400,350
+2176,Pomegranate,7/25/13,Kg,200,210,205
+2177,Mango(Maldah),7/25/13,Kg,50,60,55
+2178,Water Melon(Green),7/25/13,Kg,45,50,47.5
+2179,Sweet Orange,7/25/13,Kg,85,90,87.5
+2180,Pineapple,7/25/13,1 Pc,60,70,65
+2181,Cucumber(Local),7/25/13,Kg,25,30,27.5
+2182,Jack Fruit,7/25/13,Kg,15,18,16.5
+2183,Guava,7/25/13,Kg,60,65,62.5
+2184,Ginger,7/25/13,Kg,170,180,175
+2185,Chilli Dry,7/25/13,Kg,170,180,175
+2186,Chilli Green,7/25/13,Kg,30,35,32.5
+2187,Capsicum,7/25/13,Kg,50,60,55
+2188,Garlic Green,7/25/13,Kg,45,50,47.5
+2189,Coriander Green,7/25/13,Kg,60,80,70
+2190,Garlic Dry Chinese,7/25/13,Kg,80,90,85
+2191,Garlic Dry Nepali,7/25/13,Kg,50,60,55
+2192,Clive Dry,7/25/13,Kg,80,90,85
+2193,Clive Green,7/25/13,Kg,50,60,55
+2194,Fish Fresh,7/25/13,Kg,200,210,205
+2195,Tomato Big(Nepali),7/26/13,Kg,45,50,47.5
+2196,Tomato Small(Local),7/26/13,Kg,40,45,42.5
+2197,Potato Red,7/26/13,Kg,23,24,23.5
+2198,Potato White,7/26/13,Kg,18,19,18.5
+2199,Onion Dry (Indian),7/26/13,Kg,49,52,50.5
+2200,Carrot(Local),7/26/13,Kg,50,55,52.5
+2201,Cabbage(Local),7/26/13,Kg,18,20,19
+2202,Cauli Local,7/26/13,Kg,55,60,57.5
+2203,Raddish White(Local),7/26/13,Kg,20,25,22.5
+2204,Brinjal Long,7/26/13,Kg,28,30,29
+2205,Brinjal Round,7/26/13,Kg,35,40,37.5
+2206,Cow pea(Long),7/26/13,Kg,35,40,37.5
+2207,Green Peas,7/26/13,Kg,140,150,145
+2208,French Bean(Local),7/26/13,Kg,30,35,32.5
+2209,Soyabean Green,7/26/13,Kg,50,55,52.5
+2210,Bitter Gourd,7/26/13,Kg,20,22,21
+2211,Bottle Gourd,7/26/13,Kg,18,20,19
+2212,Pointed Gourd(Local),7/26/13,Kg,30,35,32.5
+2213,Snake Gourd,7/26/13,Kg,20,25,22.5
+2214,Smooth Gourd,7/26/13,Kg,25,30,27.5
+2215,Sponge Gourd,7/26/13,Kg,20,25,22.5
+2216,Pumpkin,7/26/13,Kg,18,20,19
+2217,Squash(Long),7/26/13,Kg,30,35,32.5
+2218,Okara,7/26/13,Kg,20,24,22
+2219,Arum,7/26/13,Kg,28,30,29
+2220,Christophine,7/26/13,Kg,30,35,32.5
+2221,Brd Leaf Mustard,7/26/13,Kg,30,35,32.5
+2222,Spinach Leaf,7/26/13,Kg,30,35,32.5
+2223,Cress Leaf,7/26/13,Kg,30,35,32.5
+2224,Mustard Leaf,7/26/13,Kg,25,30,27.5
+2225,Fenugreek Leaf,7/26/13,Kg,35,40,37.5
+2226,Onion Green,7/26/13,Kg,30,35,32.5
+2227,Mushroom(Kanya),7/26/13,Kg,180,200,190
+2228,Asparagus,7/26/13,Kg,120,150,135
+2229,Neuro,7/26/13,Kg,50,60,55
+2230,Sugarbeet,7/26/13,Kg,55,60,57.5
+2231,Lettuce,7/26/13,Kg,45,50,47.5
+2232,Celery,7/26/13,Kg,120,130,125
+2233,Parseley,7/26/13,Kg,170,180,175
+2234,Fennel Leaf,7/26/13,Kg,45,50,47.5
+2235,Mint,7/26/13,Kg,120,130,125
+2236,Turnip A,7/26/13,Kg,45,50,47.5
+2237,Maize,7/26/13,1 Pc,6,7,6.5
+2238,Tamarind,7/26/13,Kg,70,80,75
+2239,Bamboo Shoot,7/26/13,Kg,60,70,65
+2240,Tofu,7/26/13,Kg,60,70,65
+2241,Gundruk,7/26/13,Kg,170,180,175
+2242,Apple(Jholey),7/26/13,Kg,100,110,105
+2243,Banana,7/26/13,Doz,50,60,55
+2244,Lime,7/26/13,Kg,300,400,350
+2245,Pomegranate,7/26/13,Kg,200,210,205
+2246,Mango(Maldah),7/26/13,Kg,50,60,55
+2247,Water Melon(Green),7/26/13,Kg,45,50,47.5
+2248,Sweet Orange,7/26/13,Kg,85,90,87.5
+2249,Pineapple,7/26/13,1 Pc,60,70,65
+2250,Cucumber(Local),7/26/13,Kg,25,30,27.5
+2251,Jack Fruit,7/26/13,Kg,15,18,16.5
+2252,Papaya(Nepali),7/26/13,Kg,60,70,65
+2253,Ginger,7/26/13,Kg,170,180,175
+2254,Chilli Dry,7/26/13,Kg,170,180,175
+2255,Chilli Green,7/26/13,Kg,30,35,32.5
+2256,Capsicum,7/26/13,Kg,50,60,55
+2257,Garlic Green,7/26/13,Kg,45,50,47.5
+2258,Coriander Green,7/26/13,Kg,70,80,75
+2259,Garlic Dry Chinese,7/26/13,Kg,85,90,87.5
+2260,Garlic Dry Nepali,7/26/13,Kg,50,60,55
+2261,Clive Dry,7/26/13,Kg,80,90,85
+2262,Fish Fresh,7/26/13,Kg,200,210,205
+2263,Tomato Big(Nepali),7/28/13,Kg,40,50,45
+2264,Tomato Small(Local),7/28/13,Kg,40,45,42.5
+2265,Potato Red,7/28/13,Kg,23,24,23.5
+2266,Potato White,7/28/13,Kg,20,21,20.5
+2267,Onion Dry (Indian),7/28/13,Kg,50,51,50.5
+2268,Carrot(Local),7/28/13,Kg,50,55,52.5
+2269,Cabbage(Local),7/28/13,Kg,16,20,18
+2270,Cauli Local,7/28/13,Kg,55,60,57.5
+2271,Raddish White(Local),7/28/13,Kg,14,18,16
+2272,Brinjal Long,7/28/13,Kg,25,30,27.5
+2273,Brinjal Round,7/28/13,Kg,30,35,32.5
+2274,Cow pea(Long),7/28/13,Kg,35,40,37.5
+2275,Green Peas,7/28/13,Kg,130,140,135
+2276,French Bean(Local),7/28/13,Kg,35,40,37.5
+2277,Soyabean Green,7/28/13,Kg,50,55,52.5
+2278,Bitter Gourd,7/28/13,Kg,18,20,19
+2279,Bottle Gourd,7/28/13,Kg,18,20,19
+2280,Pointed Gourd(Local),7/28/13,Kg,30,35,32.5
+2281,Snake Gourd,7/28/13,Kg,35,40,37.5
+2282,Smooth Gourd,7/28/13,Kg,25,30,27.5
+2283,Sponge Gourd,7/28/13,Kg,20,25,22.5
+2284,Pumpkin,7/28/13,Kg,18,20,19
+2285,Squash(Long),7/28/13,Kg,30,35,32.5
+2286,Okara,7/28/13,Kg,20,24,22
+2287,Arum,7/28/13,Kg,28,30,29
+2288,Christophine,7/28/13,Kg,30,32,31
+2289,Brd Leaf Mustard,7/28/13,Kg,30,35,32.5
+2290,Spinach Leaf,7/28/13,Kg,30,35,32.5
+2291,Cress Leaf,7/28/13,Kg,30,35,32.5
+2292,Mustard Leaf,7/28/13,Kg,25,30,27.5
+2293,Fenugreek Leaf,7/28/13,Kg,30,35,32.5
+2294,Onion Green,7/28/13,Kg,30,35,32.5
+2295,Mushroom(Kanya),7/28/13,Kg,180,200,190
+2296,Asparagus,7/28/13,Kg,120,150,135
+2297,Neuro,7/28/13,Kg,40,50,45
+2298,Sugarbeet,7/28/13,Kg,55,60,57.5
+2299,Red Cabbbage,7/28/13,Kg,60,70,65
+2300,Lettuce,7/28/13,Kg,45,50,47.5
+2301,Celery,7/28/13,Kg,120,130,125
+2302,Parseley,7/28/13,Kg,160,170,165
+2303,Fennel Leaf,7/28/13,Kg,45,50,47.5
+2304,Mint,7/28/13,Kg,120,130,125
+2305,Turnip A,7/28/13,Kg,45,50,47.5
+2306,Maize,7/28/13,1 Pc,9,10,9.5
+2307,Tamarind,7/28/13,Kg,70,80,75
+2308,Bamboo Shoot,7/28/13,Kg,60,70,65
+2309,Tofu,7/28/13,Kg,60,70,65
+2310,Gundruk,7/28/13,Kg,170,180,175
+2311,Apple(Jholey),7/28/13,Kg,100,110,105
+2312,Banana,7/28/13,Doz,50,60,55
+2313,Lime,7/28/13,Kg,300,400,350
+2314,Pomegranate,7/28/13,Kg,200,210,205
+2315,Mango(Maldah),7/28/13,Kg,50,60,55
+2316,Water Melon(Green),7/28/13,Kg,40,45,42.5
+2317,Sweet Orange,7/28/13,Kg,85,90,87.5
+2318,Pineapple,7/28/13,1 Pc,60,70,65
+2319,Cucumber(Local),7/28/13,Kg,28,32,30
+2320,Jack Fruit,7/28/13,Kg,15,130,72.5
+2321,Papaya(Nepali),7/28/13,Kg,60,65,62.5
+2322,Ginger,7/28/13,Kg,170,180,175
+2323,Chilli Dry,7/28/13,Kg,170,180,175
+2324,Chilli Green,7/28/13,Kg,35,40,37.5
+2325,Capsicum,7/28/13,Kg,50,60,55
+2326,Garlic Green,7/28/13,Kg,45,50,47.5
+2327,Coriander Green,7/28/13,Kg,70,80,75
+2328,Garlic Dry Chinese,7/28/13,Kg,85,90,87.5
+2329,Garlic Dry Nepali,7/28/13,Kg,50,60,55
+2330,Clive Dry,7/28/13,Kg,70,80,75
+2331,Clive Green,7/28/13,Kg,50,60,55
+2332,Fish Fresh,7/28/13,Kg,200,210,205
+2333,Tomato Big(Nepali),7/29/13,Kg,50,55,52.5
+2334,Tomato Small(Local),7/29/13,Kg,42,46,44
+2335,Potato Red,7/29/13,Kg,23,24,23.5
+2336,Potato White,7/29/13,Kg,20,21,20.5
+2337,Onion Dry (Indian),7/29/13,Kg,50,52,51
+2338,Carrot(Local),7/29/13,Kg,45,50,47.5
+2339,Cabbage(Local),7/29/13,Kg,20,24,22
+2340,Cauli Local,7/29/13,Kg,50,60,55
+2341,Raddish White(Local),7/29/13,Kg,15,18,16.5
+2342,Brinjal Long,7/29/13,Kg,24,26,25
+2343,Brinjal Round,7/29/13,Kg,30,35,32.5
+2344,Cow pea(Long),7/29/13,Kg,40,44,42
+2345,French Bean(Local),7/29/13,Kg,30,35,32.5
+2346,Soyabean Green,7/29/13,Kg,50,55,52.5
+2347,Bitter Gourd,7/29/13,Kg,20,22,21
+2348,Bottle Gourd,7/29/13,Kg,20,25,22.5
+2349,Pointed Gourd(Local),7/29/13,Kg,30,35,32.5
+2350,Snake Gourd,7/29/13,Kg,30,35,32.5
+2351,Smooth Gourd,7/29/13,Kg,20,25,22.5
+2352,Sponge Gourd,7/29/13,Kg,20,25,22.5
+2353,Pumpkin,7/29/13,Kg,18,20,19
+2354,Squash(Long),7/29/13,Kg,25,30,27.5
+2355,Okara,7/29/13,Kg,20,25,22.5
+2356,Arum,7/29/13,Kg,30,35,32.5
+2357,Christophine,7/29/13,Kg,28,32,30
+2358,Brd Leaf Mustard,7/29/13,Kg,30,35,32.5
+2359,Spinach Leaf,7/29/13,Kg,30,35,32.5
+2360,Cress Leaf,7/29/13,Kg,30,35,32.5
+2361,Mustard Leaf,7/29/13,Kg,25,30,27.5
+2362,Fenugreek Leaf,7/29/13,Kg,30,35,32.5
+2363,Onion Green,7/29/13,Kg,30,35,32.5
+2364,Mushroom(Kanya),7/29/13,Kg,150,160,155
+2365,Asparagus,7/29/13,Kg,150,170,160
+2366,Neuro,7/29/13,Kg,50,60,55
+2367,Sugarbeet,7/29/13,Kg,55,60,57.5
+2368,Red Cabbbage,7/29/13,Kg,70,80,75
+2369,Lettuce,7/29/13,Kg,55,60,57.5
+2370,Celery,7/29/13,Kg,120,130,125
+2371,Parseley,7/29/13,Kg,170,180,175
+2372,Fennel Leaf,7/29/13,Kg,45,50,47.5
+2373,Mint,7/29/13,Kg,120,130,125
+2374,Turnip A,7/29/13,Kg,45,50,47.5
+2375,Maize,7/29/13,1 Pc,9,10,9.5
+2376,Tamarind,7/29/13,Kg,70,80,75
+2377,Bamboo Shoot,7/29/13,Kg,60,70,65
+2378,Tofu,7/29/13,Kg,60,70,65
+2379,Gundruk,7/29/13,Kg,170,180,175
+2380,Apple(Jholey),7/29/13,Kg,100,110,105
+2381,Banana,7/29/13,Doz,50,60,55
+2382,Lime,7/29/13,Kg,300,400,350
+2383,Pomegranate,7/29/13,Kg,200,210,205
+2384,Mango(Maldah),7/29/13,Kg,60,70,65
+2385,Water Melon(Green),7/29/13,Kg,45,50,47.5
+2386,Sweet Orange,7/29/13,Kg,85,90,87.5
+2387,Pineapple,7/29/13,1 Pc,60,70,65
+2388,Cucumber(Local),7/29/13,Kg,25,30,27.5
+2389,Papaya(Nepali),7/29/13,Kg,60,65,62.5
+2390,Ginger,7/29/13,Kg,170,180,175
+2391,Chilli Dry,7/29/13,Kg,170,180,175
+2392,Chilli Green,7/29/13,Kg,35,40,37.5
+2393,Capsicum,7/29/13,Kg,50,60,55
+2394,Garlic Green,7/29/13,Kg,45,50,47.5
+2395,Coriander Green,7/29/13,Kg,140,150,145
+2396,Garlic Dry Chinese,7/29/13,Kg,80,90,85
+2397,Garlic Dry Nepali,7/29/13,Kg,60,70,65
+2398,Clive Dry,7/29/13,Kg,70,80,75
+2399,Clive Green,7/29/13,Kg,50,60,55
+2400,Fish Fresh,7/29/13,Kg,200,210,205
+2401,Tomato Big(Nepali),7/30/13,Kg,50,55,52.5
+2402,Tomato Small(Local),7/30/13,Kg,38,42,40
+2403,Potato Red,7/30/13,Kg,23,24,23.5
+2404,Potato White,7/30/13,Kg,20,21,20.5
+2405,Onion Dry (Indian),7/30/13,Kg,50,52,51
+2406,Carrot(Local),7/30/13,Kg,45,50,47.5
+2407,Cabbage(Local),7/30/13,Kg,20,24,22
+2408,Cauli Local,7/30/13,Kg,50,55,52.5
+2409,Raddish White(Local),7/30/13,Kg,15,20,17.5
+2410,Brinjal Long,7/30/13,Kg,20,25,22.5
+2411,Brinjal Round,7/30/13,Kg,35,40,37.5
+2412,Cow pea(Long),7/30/13,Kg,30,40,35
+2413,French Bean(Local),7/30/13,Kg,35,40,37.5
+2414,Soyabean Green,7/30/13,Kg,50,55,52.5
+2415,Bitter Gourd,7/30/13,Kg,20,24,22
+2416,Bottle Gourd,7/30/13,Kg,20,24,22
+2417,Pointed Gourd(Local),7/30/13,Kg,30,35,32.5
+2418,Snake Gourd,7/30/13,Kg,20,25,22.5
+2419,Smooth Gourd,7/30/13,Kg,20,25,22.5
+2420,Sponge Gourd,7/30/13,Kg,20,25,22.5
+2421,Pumpkin,7/30/13,Kg,18,20,19
+2422,Squash(Long),7/30/13,Kg,30,35,32.5
+2423,Okara,7/30/13,Kg,20,24,22
+2424,Arum,7/30/13,Kg,30,32,31
+2425,Christophine,7/30/13,Kg,30,32,31
+2426,Brd Leaf Mustard,7/30/13,Kg,30,35,32.5
+2427,Spinach Leaf,7/30/13,Kg,30,35,32.5
+2428,Cress Leaf,7/30/13,Kg,30,35,32.5
+2429,Mustard Leaf,7/30/13,Kg,25,30,27.5
+2430,Fenugreek Leaf,7/30/13,Kg,30,35,32.5
+2431,Onion Green,7/30/13,Kg,30,35,32.5
+2432,Mushroom(Kanya),7/30/13,Kg,170,180,175
+2433,Asparagus,7/30/13,Kg,150,180,165
+2434,Neuro,7/30/13,Kg,50,60,55
+2435,Sugarbeet,7/30/13,Kg,50,60,55
+2436,Red Cabbbage,7/30/13,Kg,60,70,65
+2437,Lettuce,7/30/13,Kg,45,50,47.5
+2438,Celery,7/30/13,Kg,120,130,125
+2439,Parseley,7/30/13,Kg,170,180,175
+2440,Fennel Leaf,7/30/13,Kg,45,50,47.5
+2441,Mint,7/30/13,Kg,120,130,125
+2442,Turnip A,7/30/13,Kg,45,50,47.5
+2443,Tamarind,7/30/13,Kg,70,80,75
+2444,Bamboo Shoot,7/30/13,Kg,60,70,65
+2445,Tofu,7/30/13,Kg,60,70,65
+2446,Apple(Jholey),7/30/13,Kg,100,110,105
+2447,Banana,7/30/13,Doz,50,60,55
+2448,Lime,7/30/13,Kg,300,400,350
+2449,Pomegranate,7/30/13,Kg,200,210,205
+2450,Mango(Maldah),7/30/13,Kg,60,70,65
+2451,Water Melon(Green),7/30/13,Kg,45,50,47.5
+2452,Sweet Orange,7/30/13,Kg,85,90,87.5
+2453,Pineapple,7/30/13,1 Pc,60,70,65
+2454,Cucumber(Local),7/30/13,Kg,25,30,27.5
+2455,Jack Fruit,7/30/13,Kg,15,18,16.5
+2456,Papaya(Nepali),7/30/13,Kg,60,65,62.5
+2457,Ginger,7/30/13,Kg,170,180,175
+2458,Chilli Dry,7/30/13,Kg,170,180,175
+2459,Chilli Green,7/30/13,Kg,35,40,37.5
+2460,Capsicum,7/30/13,Kg,50,55,52.5
+2461,Garlic Green,7/30/13,Kg,45,50,47.5
+2462,Coriander Green,7/30/13,Kg,90,100,95
+2463,Garlic Dry Chinese,7/30/13,Kg,80,90,85
+2464,Garlic Dry Nepali,7/30/13,Kg,60,70,65
+2465,Clive Dry,7/30/13,Kg,80,90,85
+2466,Clive Green,7/30/13,Kg,50,55,52.5
+2467,Fish Fresh,7/30/13,Kg,200,210,205
+2468,Tomato Big(Nepali),7/31/13,Kg,40,45,42.5
+2469,Tomato Small(Local),7/31/13,Kg,35,40,37.5
+2470,Potato Red,7/31/13,Kg,23,24,23.5
+2471,Potato White,7/31/13,Kg,20,21,20.5
+2472,Onion Dry (Indian),7/31/13,Kg,50,52,51
+2473,Carrot(Local),7/31/13,Kg,45,50,47.5
+2474,Cabbage(Local),7/31/13,Kg,22,24,23
+2475,Cauli Local,7/31/13,Kg,45,50,47.5
+2476,Raddish White(Local),7/31/13,Kg,15,20,17.5
+2477,Brinjal Long,7/31/13,Kg,20,25,22.5
+2478,Brinjal Round,7/31/13,Kg,30,35,32.5
+2479,Cow pea(Long),7/31/13,Kg,40,50,45
+2480,French Bean(Local),7/31/13,Kg,30,35,32.5
+2481,Soyabean Green,7/31/13,Kg,45,50,47.5
+2482,Bitter Gourd,7/31/13,Kg,20,24,22
+2483,Bottle Gourd,7/31/13,Kg,20,25,22.5
+2484,Pointed Gourd(Local),7/31/13,Kg,28,32,30
+2485,Snake Gourd,7/31/13,Kg,25,30,27.5
+2486,Smooth Gourd,7/31/13,Kg,20,25,22.5
+2487,Sponge Gourd,7/31/13,Kg,25,30,27.5
+2488,Pumpkin,7/31/13,Kg,18,20,19
+2489,Squash(Long),7/31/13,Kg,30,35,32.5
+2490,Okara,7/31/13,Kg,24,28,26
+2491,Arum,7/31/13,Kg,30,35,32.5
+2492,Christophine,7/31/13,Kg,30,35,32.5
+2493,Brd Leaf Mustard,7/31/13,Kg,30,35,32.5
+2494,Spinach Leaf,7/31/13,Kg,30,35,32.5
+2495,Cress Leaf,7/31/13,Kg,30,35,32.5
+2496,Mustard Leaf,7/31/13,Kg,25,30,27.5
+2497,Fenugreek Leaf,7/31/13,Kg,30,35,32.5
+2498,Onion Green,7/31/13,Kg,30,35,32.5
+2499,Mushroom(Kanya),7/31/13,Kg,160,180,170
+2500,Asparagus,7/31/13,Kg,150,180,165
