@@ -1,5 +1,7 @@
 # ML Collections
 
+Hi, I'm **Arneabell Bautista** and I created this repository to share my code snippets, notebooks, and projects to help guide you in your machine learning journey!
+
 This repository, **ml-collections**, contains Jupyter notebooks, code snippets, datasets, and projects created during my **CS20L** (Machine Learning Laboratory) and **Emerging Technologies** subjects. It is organized to support coursework, hands-on labs, and project-based learning in machine learning and data science.
 
 ## Directory Structure
@@ -51,4 +53,15 @@ This repository, **ml-collections**, contains Jupyter notebooks, code snippets, 
 
 - Clone the repository:
   ```sh
-  git clone <repository-url>
+  git clone https://github.com/Arn0ten/ml-collections.git
+  ```
+- Open in [Visual Studio Code](https://code.visualstudio.com/) for the best experience with integrated notebooks and code editing.
+- Install required Python packages as needed (e.g., `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `jupyter`).
+
+## License
+
+This repository is intended for educational use. Please check individual dataset files for any specific licensing or usage restrictions.
+
+---
+
+Feel free to explore the folders above by clicking the links, and contribute additional datasets, code samples, or lab activities to enhance this collection!
